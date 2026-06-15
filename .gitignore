@@ -1,0 +1,16 @@
+# Obsidian — arquivos que mudam toda hora ou são específicos da máquina
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Plugins/temas baixados (opcional descomentar — versionar só se quiser sincronizar configs)
+# .obsidian/plugins/
+# .obsidian/themes/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Lixeira interna do Obsidian
+.trash/
