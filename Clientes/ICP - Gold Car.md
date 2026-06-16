@@ -10,11 +10,17 @@ tags: [icp, automotivo, gold-car]
 
 > Perfil ideal de cliente da [[Gold Car]]. Foco local: motoristas da Zona Oeste de SP e Osasco.
 
-## 👤 Perfil
+## 👤 Perfil (ICP primário)
 - Motoristas da **Zona Oeste de São Paulo e Osasco**
 - Donos de **carros populares e intermediários** (base das avaliações Google)
-- **Sem foco** em nicho premium ou frota B2B
 - Valorizam **transparência, confiança e conveniência**
+
+## 🔁 Segmentos atendidos fora do foco atual
+Atendidos, mas **não são prioridade no momento** (exigem comunicação própria):
+- **Carros premium** — atende, mas não é o foco agora.
+- **Frota B2B / empresas** — volume ainda baixo, **mas há interesse**. ⚠️ Necessário
+  **separar a comunicação** (mensagem e canais B2B diferentes do B2C). Potencial de
+  virar ICP secundário formal conforme crescer.
 
 ## 🩹 Dores / motivações
 - Medo de "oficina que inventa problema" / ser enganado
@@ -47,10 +53,11 @@ tags: [icp, automotivo, gold-car]
 - "atendimento do João" (pessoas viram referência de confiança)
 
 ## 🚫 Anti-ICP (quem NÃO é o cliente ideal)
-- **Frota B2B / grandes empresas** (sem foco corporativo declarado)
-- **Carros premium / luxo / exóticos** (posicionamento é popular e intermediário)
 - **Caçador de menor preço** que não valoriza transparência/qualidade
 - **Fora da área de cobertura** do Leva & Traz (inviabiliza o principal diferencial)
+
+> Nota: carros premium e frota B2B **não são anti-ICP** — são atendidos, mas fora do foco
+> atual (ver seção "Segmentos atendidos fora do foco atual").
 
 ## 🧠 Resumo
 > Motorista da Zona Oeste/Osasco, carro popular/intermediário, que quer uma oficina honesta,
