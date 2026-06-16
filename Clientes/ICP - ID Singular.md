@@ -49,6 +49,25 @@ tags: [icp, geracao-de-demanda, id-singular]
 - Melhorar clima organizacional
 - Aumentar eficiência de gestão e tomada de decisão
 
+## 🗣️ Linguagem do cliente (decisor B2B)
+> Como o decisor (CHRO/CEO/T&D) fala e busca solução. Base para mensagem de outbound e conteúdo.
+
+### Como busca / termos de solução
+- "desenvolvimento de liderança", "programa de liderança"
+- "consultoria de cultura organizacional", "clima organizacional"
+- "treinamento corporativo personalizado", "trilha de desenvolvimento"
+- "assessment de competências", "avaliação de potencial", "PDI"
+- "transformação cultural", "gestão por competências"
+
+### Vocabulário da marca (para casar o discurso)
+- Metáfora náutica: "jornada", "rota", "bússola", "farol", "navegar com clareza"
+- "educação corporativa que faz sentido", "personalizado vs. pronto"
+
+## 🚫 Anti-ICP (quem NÃO é o cliente ideal) — *a validar com Gabriel*
+- **Pessoa física / consumidor final** (é B2B institucional)
+- **Pequenas empresas** sem estrutura/orçamento para consultoria personalizada
+- Quem busca **curso pronto/genérico barato** (a ID entrega sob medida, não prateleira)
+
 ## 🧠 Resumo
 > Grandes empresas e órgãos públicos que precisam melhorar **liderança, cultura e performance organizacional**.
 

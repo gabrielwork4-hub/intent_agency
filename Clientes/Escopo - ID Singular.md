@@ -51,6 +51,18 @@ Base de tudo, conectando:
 - Estratégia
 - Desenvolvimento contínuo
 
+### Jornada de entrega em 6 etapas (do site)
+> A Metodologia Singular® é executada como uma "jornada/rota" em 6 etapas:
+1. **Integração**
+2. **Descoberta**
+3. **Mapeamento**
+4. **Modelagem**
+5. **Transformação**
+6. **Impacto**
+
+> Posicionamento: *"jornadas personalizadas que se tornam rotas de desenvolvimento"* —
+> personalizado vs. solução pronta. Tom de marca com metáfora náutica (bússola, farol, expedição).
+
 ---
 🔗 Relacionado: [[ICP - ID Singular]] · [[ID Singular]]
 

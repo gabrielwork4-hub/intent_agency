@@ -10,6 +10,8 @@ responsavel: Gabriel
 funcao: estratégia
 inicio_contrato: 
 cidade: 
+site: idsingular.com.br
+instagram: "@idsingular"
 tags: [cliente, pj, geracao-de-demanda]
 ---
 
@@ -32,8 +34,16 @@ Vou iniciar toda a parte de **geração de demanda qualificada** para esta empre
 ## Sobre o cliente
 - Posicionamento: consultoria + educação corporativa + assessment organizacional
 - Mercado: **B2B corporativo e institucional** (médias/grandes empresas e órgãos públicos)
-- Metodologia própria: **Metodologia Singular®**
+- Metodologia própria: **Metodologia Singular®** (jornada em 6 etapas — ver [[Escopo - ID Singular]])
+- Site: idsingular.com.br · Instagram: @idsingular
 - Detalhes completos em [[ICP - ID Singular]] e [[Escopo - ID Singular]]
+
+## 🗣️ Tom de voz da marca
+Inspirador, humanizado e estratégico, com **metáfora náutica** (bússola, farol, expedição, jornada).
+- *"Educação corporativa que faz sentido"*
+- *"jornadas personalizadas que se tornam rotas de desenvolvimento"*
+- *"navegar com mais clareza, direção e propósito"*
+- CTAs reais: *"Explorar a educação corporativa"*, *"Traçar uma jornada para minha organização"*
 
 ## Estratégia de geração de demanda
 - *(registrar aqui: canais, campanhas, funil, ofertas...)*
