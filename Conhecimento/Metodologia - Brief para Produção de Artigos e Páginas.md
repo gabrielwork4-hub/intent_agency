@@ -23,6 +23,15 @@ resposta e motores generativos. Sem brief padronizado, a produção fica inconsi
 - O brief existe para **padronizar os padrões necessários para ranquear** — a IA produz,
   o brief governa a qualidade e a consistência.
 
+## 🔬 Benchmark de SERP (passo fundante)
+Antes de redigir, **analisar a SERP** dos termos-alvo como benchmark padrão:
+- Estudar os resultados que **já rankeiam** para entender o que o Google premia naquela busca.
+- Extrair os **padrões replicáveis** de ranqueamento: profundidade/extensão, estrutura de
+  headings, formatos (listas, tabelas, FAQ), entidades cobertas, tipo de conteúdo (serviço
+  vs informacional), elementos de SERP (snippet, PAA, local pack).
+- Esses padrões alimentam todo o resto do brief (estrutura, ângulo, classificação YMYL/commodity).
+- É a base para **desenhar o conteúdo já no padrão que compete** naquela SERP.
+
 ## 🧭 Otimização tripla (SEO + AEO + GEO)
 Todo brief considera as três camadas:
 
@@ -30,7 +39,7 @@ Todo brief considera as três camadas:
 - Keyword principal + secundárias (da planilha) e intenção de busca
 - Title/H1, estrutura de headings (H2/H3), meta description
 - Links internos (amarração serviço ↔ pauta do cluster)
-- Análise da SERP/concorrentes que já rankeiam
+- Padrões extraídos do **Benchmark de SERP** (ver passo fundante acima)
 
 ### AEO (Answer Engine Optimization)
 - Estrutura para **responder direto** (featured snippets, "People Also Ask")
@@ -58,6 +67,7 @@ Quando o tema é commoditizado (todos dizem o mesmo):
 - *(a validar: como você decide o "ângulo" diferenciador?)*
 
 ## 📋 Estrutura padrão do brief (checklist)
+- [ ] Benchmark de SERP feito (padrões replicáveis extraídos)
 - [ ] Cluster / tópico e destino (serviço ou pauta)
 - [ ] Keyword principal + secundárias + intenção
 - [ ] Classificação: YMYL? sim/não · grau de commodity
