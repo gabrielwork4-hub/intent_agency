@@ -63,10 +63,15 @@ tags: [icp, geracao-de-demanda, id-singular]
 - Metáfora náutica: "jornada", "rota", "bússola", "farol", "navegar com clareza"
 - "educação corporativa que faz sentido", "personalizado vs. pronto"
 
-## 🚫 Anti-ICP (quem NÃO é o cliente ideal) — *a validar com Gabriel*
+## 🚫 Anti-ICP (quem NÃO é o cliente ideal) — *provisório, em refinamento*
+Hipóteses iniciais (a confirmar/ajustar):
 - **Pessoa física / consumidor final** (é B2B institucional)
 - **Pequenas empresas** sem estrutura/orçamento para consultoria personalizada
 - Quem busca **curso pronto/genérico barato** (a ID entrega sob medida, não prateleira)
+
+> 🔄 **Será refinado com dados internos** de qualificação de leads e taxa de fechamento final
+> (quem realmente converte vs. quem não avança). Atualizar conforme a ID Singular fornecer
+> esses dados da operação comercial.
 
 ## 🧠 Resumo
 > Grandes empresas e órgãos públicos que precisam melhorar **liderança, cultura e performance organizacional**.
