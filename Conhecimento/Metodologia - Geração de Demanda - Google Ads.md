@@ -2,7 +2,7 @@
 tipo: metodologia
 etapa: 7
 fase: geração de demanda (mídia paga)
-status: em construção
+status: pronta
 atualizado: 2026-06-15
 tags: [metodologia, geracao-de-demanda, google-ads, midia-paga, conhecimento]
 ---

@@ -10,6 +10,10 @@ tags: [moc, conhecimento, metodologia]
 > Base de **metodologias, frameworks e processos reutilizáveis** entre todos os clientes.
 > Diferente das notas de cliente (específicas), aqui fica o "como fazer" que se aplica a vários.
 > Construído fio a fio — cada metodologia é uma nota atômica e auto-contida.
+>
+> ⚠️ **Documentos vivos:** as metodologias são refinadas ao longo das execuções reais.
+> A cada projeto, validar a necessidade e o aproveitamento dos passos, enriquecendo o que
+> funciona e ajustando o que não se aplica. O "pronta" significa base sólida, não imutável.
 
 ## 🧭 Metodologias (roadmap)
 Construindo fio a fio. Status: ⬜ a fazer · 🔄 em construção · ✅ pronta.
@@ -25,7 +29,7 @@ Construindo fio a fio. Status: ⬜ a fazer · 🔄 em construção · ✅ pronta
 6. ✅ [[Metodologia - SEO Off-Page]]
 
 ### Geração de demanda (mídia paga)
-7. ⬜ [[Metodologia - Geração de Demanda - Google Ads]]
+7. ✅ [[Metodologia - Geração de Demanda - Google Ads]]
 8. ⬜ [[Metodologia - Geração de Demanda - Meta Ads]]
 
 ## 📋 Checklists e processos
