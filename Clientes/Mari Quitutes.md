@@ -65,6 +65,7 @@ Caloroso, pessoal e emocional — artesanal premium feito com afeto.
 ## Inteligência do cliente
 - 🎯 Público-alvo: [[ICP - Mari Quitutes]]
 - 📈 Estratégia de SEO: [[Projeto - SEO Mari Quitutes]]
+- 📊 Acompanhamento e resultados: [[Acompanhamento - Mari Quitutes]]
 
 ## Anotações
 - 

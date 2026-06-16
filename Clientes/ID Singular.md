@@ -51,6 +51,9 @@ Inspirador, humanizado e estratégico, com **metáfora náutica** (bússola, far
 ## Projetos
 - [[Projeto - Geração de Demanda ID Singular]] — *em início*
 
+## Acompanhamento
+- 📊 [[Acompanhamento - ID Singular]] — baseline, metas e resultados
+
 ## Anotações
 - 
 
