@@ -1,17 +1,25 @@
+<%*
+const cliente = await tp.system.prompt("Nome do cliente");
+const titulo = await tp.system.prompt("Título da peça (ex: Bolos de Casamento)");
+await tp.file.rename("Brief - " + titulo);
+-%>
 ---
 tipo: brief-conteudo
-cliente: 
+cliente: "[[<% cliente %>]]"
+peca: <% titulo %>
 destino: 
+status: a fazer
 ymyl: não
 commodity: 
 atualizado: <% tp.date.now("YYYY-MM-DD") %>
 tags: [brief, conteudo]
 ---
 
-# 📝 Brief — {{título da peça}}
+# 📝 Brief — <% titulo %>
 
 > Segue [[Metodologia - Brief para Produção de Artigos e Páginas]] (SEO + AEO + GEO).
 > Produção por Claude + conectores; este brief padroniza o que rankeia.
+> Cliente: [[<% cliente %>]]
 
 ## 🔬 Benchmark de SERP
 - Quem rankeia / padrões replicáveis: 

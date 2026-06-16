@@ -30,13 +30,11 @@ que dão visão e automações que poupam tempo — sem perder a simplicidade do
 - **Valor p/ operação:** ativa os painéis automáticos (clientes ativos, tarefas, resultados).
 - **Status:** instalado e ativo (v0.5.68). Painéis renderizando.
 
-### 1.2 Templater + pasta /Templates 🔄
+### 1.2 Templater + pasta /Templates ✅
 - **O que:** criação de notas já padronizadas (cliente, projeto, acompanhamento, brief).
 - **Valor p/ operação:** todo cliente novo nasce com ICP + Projeto + Acompanhamento num clique.
-  Consistência = assertividade + RAG melhor.
-- **Esforço:** médio. **Depende de:** instalar Templater + configurar pasta.
-- ✅ **Templates criados:** Cliente, ICP, Projeto, Acompanhamento, Brief de Conteúdo (ver [[📋 Templates]]).
-- ⬜ **Falta:** instalar plugin Templater e apontar a pasta `Templates` nas configurações.
+- **Status:** Templater ativo + pasta configurada. 5 templates **inteligentes** (perguntam nome,
+  renomeiam e preenchem links sozinhos) — ver [[📋 Templates]]. Testado e funcionando.
 
 ### 1.3 Cores no Graph View + Hotkeys ⬜
 - **O que:** pintar nós por pasta/tipo; atalhos para comandos frequentes.
@@ -54,15 +52,15 @@ que dão visão e automações que poupam tempo — sem perder a simplicidade do
 - **Valor p/ operação:** visão única do dia — o que fazer agora, em qual cliente.
 - **Status:** criada em [[🧭 Central de Comando]] (ativa com Dataview).
 
-### 2.2 Pipeline de Conteúdo ⬜
-- **O que:** status de cada página/pauta (a fazer → escrevendo → publicado → ranqueando).
+### 2.2 Pipeline de Conteúdo ✅
+- **O que:** status de cada página/pauta (a fazer → escrevendo → em revisão → publicado → ranqueando).
 - **Valor p/ operação:** controle da produção de conteúdo (Metodologias #2/#3/#4).
-- **Esforço:** médio. **Depende de:** padronizar frontmatter de notas de conteúdo.
+- **Status:** criado em [[📅 Pipeline de Conteúdo]]; status padronizado no template de Brief e no guia.
 
-### 2.3 Visão de Resultados ⬜
-- **O que:** tabela única com baseline + métricas de todos os clientes.
-- **Valor p/ operação:** fecha o ciclo de validação; prova de resultado num lugar só.
-- **Esforço:** médio. **Depende de:** acompanhamentos preenchidos.
+### 2.3 Visão de Resultados ✅
+- **O que:** consolida acompanhamentos, projetos em execução e hipóteses em aberto.
+- **Valor p/ operação:** fecha o ciclo de validação; placar da operação num lugar só.
+- **Status:** criado em [[📈 Visão de Resultados]].
 
 ---
 
@@ -112,11 +110,11 @@ que dão visão e automações que poupam tempo — sem perder a simplicidade do
 | Fase | Item | Esforço | Status |
 |---|---|---|---|
 | 1 | Dataview | baixo | ✅ |
-| 1 | Templater + Templates | médio | 🔄 (falta apontar pasta) |
+| 1 | Templater + Templates | médio | ✅ |
 | 1 | Graph cores + Hotkeys | baixo | 🔄 (Hotkeys++ instalado) |
 | 2 | Central de Comando | médio | ✅ |
-| 2 | Pipeline de Conteúdo | médio | ⬜ |
-| 2 | Visão de Resultados | médio | ⬜ |
+| 2 | Pipeline de Conteúdo | médio | ✅ |
+| 2 | Visão de Resultados | médio | ✅ |
 | 3 | Kanban | baixo-médio | ⬜ |
 | 3 | Canvas/Excalidraw | médio | ⬜ |
 | 4 | QuickAdd | baixo | ⬜ |

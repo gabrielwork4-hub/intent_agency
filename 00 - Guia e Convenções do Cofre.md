@@ -70,10 +70,12 @@ tags: [conhecimento]
 ```
 
 ### Valores padronizados (sempre usar estes)
-- **status:** `ativo`, `em início`, `em andamento`, `pausado`, `concluído`, `encerrado`
+- **status (cliente/projeto):** `ativo`, `em início`, `em andamento`, `pausado`, `concluído`, `encerrado`
+- **status (conteúdo):** `a fazer`, `escrevendo`, `em revisão`, `publicado`, `ranqueando`
 - **prioridade:** `alta`, `média`, `baixa`
 - **vinculo:** `agência (Intent Marketing)`, `PJ`
-- **tipo:** `cliente`, `projeto`, `conhecimento`, `icp`, `escopo`, `guia`, `dashboard`
+- **tipo:** `cliente`, `projeto`, `conhecimento`, `icp`, `escopo`, `guia`, `dashboard`,
+  `acompanhamento`, `brief-conteudo`, `metodologia`, `roadmap`, `manual-ia`, `indice-mestre`
 
 ---
 

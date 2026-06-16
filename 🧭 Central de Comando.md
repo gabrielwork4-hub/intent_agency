@@ -50,6 +50,10 @@ WHERE tipo = "metodologia"
 SORT etapa ASC
 ```
 
+## 🔗 Outros painéis
+- [[📅 Pipeline de Conteúdo]] — produção de conteúdo por status
+- [[📈 Visão de Resultados]] — ciclo de validação consolidado
+
 ## 🚀 Evolução do cofre
 - [[🚀 Roadmap de Evolução do Cofre]] — fases de melhoria
 

@@ -11,7 +11,7 @@ tags: [moc, indice]
 > Quem chega aqui (humano ou IA) começa por esta nota para saber onde está cada coisa.
 > Para a IA: ver também [[🤖 Manual do Cofre para IA]] e [[00 - Guia e Convenções do Cofre]].
 
-> 🧭 **Visão da operação:** [[🧭 Central de Comando]] (dashboard que atualiza sozinho).
+> 🧭 **Painéis da operação (Dataview):** [[🧭 Central de Comando]] · [[📅 Pipeline de Conteúdo]] · [[📈 Visão de Resultados]]
 
 ## 👥 Clientes
 Base de inteligência por cliente.

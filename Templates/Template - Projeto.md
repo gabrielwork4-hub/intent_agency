@@ -1,8 +1,13 @@
+<%*
+const nome = await tp.system.prompt("Nome do cliente");
+const titulo = await tp.system.prompt("Título do projeto (ex: SEO, Geração de Demanda)");
+await tp.file.rename("Projeto - " + titulo + " " + nome);
+-%>
 ---
 tipo: projeto
-cliente: 
+cliente: "[[<% nome %>]]"
 vinculo: 
-foco: 
+foco: <% titulo %>
 status: em início
 prioridade: alta
 prazo: 
@@ -10,9 +15,9 @@ atualizado: <% tp.date.now("YYYY-MM-DD") %>
 tags: [projeto]
 ---
 
-# 📈 Projeto — {{nome}}
+# 📈 Projeto — <% titulo %> <% nome %>
 
-> Estratégia do projeto. Público em [[ICP - cliente]].
+> Estratégia do projeto. Público em [[ICP - <% nome %>]].
 
 ## 🎯 Objetivos
 - 
@@ -30,6 +35,6 @@ tags: [projeto]
 - [ ] 
 
 ---
-🔗 Relacionado: [[cliente]] · [[Acompanhamento - cliente]]
+🔗 Relacionado: [[<% nome %>]] · [[Acompanhamento - <% nome %>]]
 
 #projeto
