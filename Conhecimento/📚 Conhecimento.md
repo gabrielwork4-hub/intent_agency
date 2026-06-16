@@ -20,7 +20,7 @@ Construindo fio a fio. Status: ⬜ a fazer · 🔄 em construção · ✅ pronta
 3. ✅ [[Metodologia - Brief para Produção de Artigos e Páginas]]
 
 ### SEO
-4. ⬜ [[Metodologia - SEO On-Page]]
+4. ✅ [[Metodologia - SEO On-Page]]
 5. ⬜ [[Metodologia - SEO Local]]
 6. ⬜ [[Metodologia - SEO Off-Page]]
 

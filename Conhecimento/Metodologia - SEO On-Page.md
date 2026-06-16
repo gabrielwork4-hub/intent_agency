@@ -2,7 +2,7 @@
 tipo: metodologia
 etapa: 4
 fase: seo
-status: em construção
+status: pronta
 atualizado: 2026-06-15
 tags: [metodologia, seo, on-page, conhecimento]
 ---
