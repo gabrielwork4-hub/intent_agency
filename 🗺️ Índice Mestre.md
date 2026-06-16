@@ -37,6 +37,7 @@ Metodologias, checklists e referências reutilizáveis.
 ## 📐 Estrutura e padrões
 - [[00 - Guia e Convenções do Cofre]] — como nomear, estruturar e padronizar notas
 - [[🤖 Manual do Cofre para IA]] — orientação para o Claude consultar o cofre
+- [[🚀 Roadmap de Evolução do Cofre]] — plano de melhorias e inovações por fase
 
 ## 🧪 Exemplos (aprendizado — pode apagar)
 - [[🏠 Painel Central]] · [[📊 Painel Dataview]]
