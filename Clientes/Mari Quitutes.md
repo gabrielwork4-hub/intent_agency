@@ -10,6 +10,10 @@ foco: SEO
 inicio_contrato: 
 base: Vila Dalva, Zona Oeste de São Paulo
 atendimento: toda São Paulo (encomenda e entrega)
+tempo_mercado: 15 anos
+entrega: até 24h em SP
+site: mariquitutes.com.br
+instagram: "@Mariquitutes"
 tags: [cliente, confeitaria, seo]
 ---
 
@@ -31,11 +35,19 @@ tags: [cliente, confeitaria, seo]
 - **Atendimento:** toda a cidade de São Paulo, por encomenda e entrega
 
 ## Canais de venda
-- Site próprio
-- WhatsApp
-- Instagram
+- Site próprio (mariquitutes.com.br)
+- WhatsApp (CTA principal: "Falar com a Mari no WhatsApp")
+- Instagram (@Mariquitutes)
 - Retirada na loja
-- Delivery mediante encomenda
+- Delivery mediante encomenda (entrega em até 24h em SP)
+
+## 🗣️ Tom de voz da marca
+Caloroso, pessoal e emocional — artesanal premium feito com afeto.
+- *"Feito com Carinho, Entregue com Amor"*
+- *"Sabor, Arte e Dedicação em Cada Fatia"*
+- *"paixão artesanal"*, *"ingredientes selecionados"*, *"preparados diariamente"*
+- 15 anos de experiência · trata o cliente pelo nome, informal e afetuoso
+- CTAs reais: "Encomende Já!", "Pedir Orçamento Agora", "Solicite seu orçamento gratuito"
 
 ## Inteligência do cliente
 - 🎯 Público-alvo: [[ICP - Mari Quitutes]]

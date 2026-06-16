@@ -50,9 +50,36 @@ Clientes que **valorizam a Mari** justamente por:
 > Não competir por preço com esse público — competir por **qualidade percebida e confiança**.
 > É o público que mais combina com o posicionamento artesanal premium da marca.
 
+## 🗣️ Linguagem do cliente
+> Vocabulário real extraído dos depoimentos do site (mariquitutes.com.br) e da busca.
+
+### Como fala / o que valoriza (depoimentos reais)
+- "sabor incrível"
+- "recheio generoso e massa perfeita"
+- "desmancham na boca"
+- "salgadinhos são divinos"
+- Destacam: **sabor, qualidade e pontualidade** (ataca direto a dor "bonito mas sem sabor")
+
+### Como busca no Google (intenção)
+- "bolo personalizado [região/SP]"
+- "encomenda de bolo zona oeste"
+- "doces / salgados para festa são paulo"
+- "bolo personalizado entrega 24 horas"
+- "confeitaria perto de mim"
+
+## 🚫 Anti-ICP (quem NÃO é o cliente ideal)
+- **Caçador de preço** que busca bolo industrializado/de supermercado barato
+  (Mari é artesanal premium — não compete nem deve competir por preço baixo)
+- **Fora da área de entrega** (SP)
+
+> Nota: cliente **premium NÃO é anti-ICP** — é público valioso (ver seção acima).
+> Empresas maiores também são desejadas (ICP secundário de crescimento).
+
 ## 🧠 Resumo
-> Primário: mulheres 25–55 organizando festas, que querem doce bonito, saboroso e entregue
-> no prazo, num só fornecedor. Secundário: empresas que precisam de volume, pontualidade e NF.
+> **Primário (foco SEO local):** mulheres 25–55 da região, organizando festas, que querem doce
+> bonito, **saboroso** e pontual, num só fornecedor. **Secundário (crescimento):** empresas
+> maiores para encomendas corporativas. **Premium:** quem valoriza entrega fiel, qualidade e
+> frescor — competir por confiança, não por preço.
 
 ---
 🔗 Relacionado: [[Mari Quitutes]] · [[Projeto - SEO Mari Quitutes]]
