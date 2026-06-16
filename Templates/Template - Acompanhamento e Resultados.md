@@ -1,19 +1,23 @@
+<%*
+const nome = await tp.system.prompt("Nome do cliente (para o acompanhamento)");
+await tp.file.rename("Acompanhamento - " + nome);
+-%>
 ---
 tipo: acompanhamento
-cliente: "[[Nome do Cliente]]"
+cliente: "[[<% nome %>]]"
 status: ativo
-atualizado: 
+atualizado: <% tp.date.now("YYYY-MM-DD") %>
 tags: [acompanhamento, resultados]
 ---
 
-# 📊 Acompanhamento e Resultados — {{Cliente}}
+# 📊 Acompanhamento e Resultados — <% nome %>
 
 > Fecha o ciclo de validação: **baseline → metas → ações → resultados → aprendizados**.
 > Atualizar na cadência de revisão. Fonte para provar o que funcionou e calibrar a estratégia.
 
 ## 📏 Baseline (ponto de partida)
 > Snapshot do início — sem isso não há como medir evolução. Registrar data.
-- Data do baseline: 
+- Data do baseline: <% tp.date.now("YYYY-MM-DD") %>
 - Posições/keywords-chave: 
 - Tráfego orgânico (GSC): 
 - Conversões/leads por mês: 
@@ -47,4 +51,4 @@ tags: [acompanhamento, resultados]
 - 
 
 ---
-🔗 Relacionado: [[Nome do Cliente]] · [[Aprendizados Validados]]
+🔗 Relacionado: [[<% nome %>]] · [[Aprendizados Validados]]

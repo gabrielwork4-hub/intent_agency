@@ -1,12 +1,16 @@
+<%*
+const nome = await tp.system.prompt("Nome do cliente (para o ICP)");
+await tp.file.rename("ICP - " + nome);
+-%>
 ---
 tipo: icp
-cliente: 
+cliente: "[[<% nome %>]]"
 mercado: 
 atualizado: <% tp.date.now("YYYY-MM-DD") %>
 tags: [icp]
 ---
 
-# 🎯 ICP — {{cliente}}
+# 🎯 ICP — <% nome %>
 
 > Perfil ideal de cliente. Base para palavras-chave, conteúdo e mensagem.
 
@@ -41,5 +45,8 @@ tags: [icp]
 
 ## 🧠 Resumo
 > 
+
+---
+🔗 Relacionado: [[<% nome %>]]
 
 #icp
