@@ -31,12 +31,13 @@ que dão visão e automações que poupam tempo — sem perder a simplicidade do
   que já deixamos prontos. Sem ele, as queries ficam só como código.
 - **Esforço:** baixo (instalar + ativar). **Depende de:** nada.
 
-### 1.2 Templater + pasta /Templates ⬜
+### 1.2 Templater + pasta /Templates 🔄
 - **O que:** criação de notas já padronizadas (cliente, projeto, acompanhamento, brief).
 - **Valor p/ operação:** todo cliente novo nasce com ICP + Projeto + Acompanhamento num clique.
   Consistência = assertividade + RAG melhor.
-- **Esforço:** médio. **Depende de:** definir os templates (temos o de Acompanhamento).
-- **A criar:** Template de Cliente, de Projeto, de ICP, de Brief de conteúdo.
+- **Esforço:** médio. **Depende de:** instalar Templater + configurar pasta.
+- ✅ **Templates criados:** Cliente, ICP, Projeto, Acompanhamento, Brief de Conteúdo (ver [[📋 Templates]]).
+- ⬜ **Falta:** instalar plugin Templater e apontar a pasta `Templates` nas configurações.
 
 ### 1.3 Cores no Graph View + Hotkeys ⬜
 - **O que:** pintar nós por pasta/tipo; atalhos para comandos frequentes.
