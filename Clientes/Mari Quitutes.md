@@ -14,6 +14,10 @@ tempo_mercado: 15 anos
 entrega: até 24h em SP
 site: mariquitutes.com.br
 instagram: "@Mariquitutes"
+endereco: R. José do Patrocínio Waetge, 62 - Vila Dalva, São Paulo - SP, 05388-000
+telefone: (11) 99535-7319
+categoria_gmn: Confeitaria
+avaliacao_google: 4.7 ★ · 34 avaliações
 tags: [cliente, confeitaria, seo]
 ---
 
@@ -31,8 +35,17 @@ tags: [cliente, confeitaria, seo]
 - Kits para comemorações e confraternizações
 
 ## Onde atua
-- **Base física:** Vila Dalva, Zona Oeste de São Paulo
+- **Base física:** R. José do Patrocínio Waetge, 62 — Vila Dalva, São Paulo/SP, 05388-000
 - **Atendimento:** toda a cidade de São Paulo, por encomenda e entrega
+- **Telefone:** (11) 99535-7319
+
+## 📍 Presença no Google (GMN)
+- **Google Meu Negócio ativo** — categoria **Confeitaria**
+- **4.7 ★ · 34 avaliações** no Google
+- Horário: fecha às 18:00 (para viagem até 17:00)
+- Outras presenças: Instagram (4,5 mil seg.), Facebook (5.0★ · 10 · 1.385 curtidas), iFood (5.0★ · 3)
+> ⚠️ Oportunidade: 4.7★/34 reviews é bom, mas abaixo do potencial — **estratégia ativa de
+> avaliações** pode subir nota e volume (referência interna: Gold Car com 5.0★/60+).
 
 ## Canais de venda
 - Site próprio (mariquitutes.com.br)

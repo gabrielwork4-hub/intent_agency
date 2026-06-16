@@ -65,11 +65,12 @@ Jardim Bonfiglioli · Raposo Tavares
 - [ ] Eventos Corporativos
 
 ### SEO local
-- [ ] **Confirmar existência/status do GMN** (perfil no Google Maps) — *pendente de verificação*
-- [ ] Otimizar perfil do Google Business
+- [x] **GMN confirmado** — ativo, Confeitaria, 4.7★ · 34 avaliações, Vila Dalva
+- [ ] Otimizar perfil do Google Business (categorias, serviços, fotos, posts)
+- [ ] **Estratégia ativa de avaliações** — subir de 4.7★/34 (meta: aproximar do nível Gold Car)
 - [ ] Avaliações com palavras-chave
 - [ ] Geolocalização das imagens
-- [ ] NAP consistente (Nome, Endereço, Telefone) em todos os canais
+- [ ] NAP consistente: R. José do Patrocínio Waetge, 62 - Vila Dalva, SP, 05388-000 · (11) 99535-7319
 
 ## ✅ Próximos passos
 - [ ] Definir metas (nº de encomendas/mês via orgânico)
