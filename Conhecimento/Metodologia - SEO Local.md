@@ -2,7 +2,7 @@
 tipo: metodologia
 etapa: 5
 fase: seo
-status: em construção
+status: pronta
 atualizado: 2026-06-15
 tags: [metodologia, seo, seo-local, google-meu-negocio, conhecimento]
 ---
