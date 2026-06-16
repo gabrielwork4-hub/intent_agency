@@ -32,6 +32,9 @@ Construindo fio a fio. Status: ⬜ a fazer · 🔄 em construção · ✅ pronta
 7. ✅ [[Metodologia - Geração de Demanda - Google Ads]]
 8. ✅ [[Metodologia - Geração de Demanda - Meta Ads]]
 
+## 🧠 Aprendizados (ciclo de validação)
+- [[Aprendizados Validados]] — o que validamos nas execuções; realimenta as metodologias
+
 ## 📋 Checklists e processos
 *(em construção)*
 

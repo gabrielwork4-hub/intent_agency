@@ -74,5 +74,6 @@ tags: [cliente, automotivo, mecanica, seo]
 ## Inteligência do cliente
 - 🎯 Público-alvo: [[ICP - Gold Car]]
 - 📈 Estratégia de SEO: [[Projeto - SEO Gold Car]]
+- 📊 Acompanhamento e resultados: [[Acompanhamento - Gold Car]]
 
 #cliente/ativo #automotivo #seo
