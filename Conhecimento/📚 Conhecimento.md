@@ -30,7 +30,7 @@ Construindo fio a fio. Status: ⬜ a fazer · 🔄 em construção · ✅ pronta
 
 ### Geração de demanda (mídia paga)
 7. ✅ [[Metodologia - Geração de Demanda - Google Ads]]
-8. ⬜ [[Metodologia - Geração de Demanda - Meta Ads]]
+8. ✅ [[Metodologia - Geração de Demanda - Meta Ads]]
 
 ## 📋 Checklists e processos
 *(em construção)*
