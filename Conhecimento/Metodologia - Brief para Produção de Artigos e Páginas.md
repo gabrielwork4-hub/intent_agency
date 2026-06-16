@@ -37,7 +37,7 @@ Todo brief considera as três camadas:
 
 ### SEO (busca tradicional)
 - Keyword principal + secundárias (da planilha) e intenção de busca
-- Title/H1, estrutura de headings (H2/H3), meta description
+- Title/H1 (**padrão: até 65 caracteres**), headings (H2/H3/H4), meta description (**até 165 caracteres**)
 - Links internos (amarração serviço ↔ pauta do cluster)
 - Padrões extraídos do **Benchmark de SERP** (ver passo fundante acima)
 
@@ -52,6 +52,17 @@ Todo brief considera as três camadas:
 - Clareza de entidades (quem, o quê, onde) e dados verificáveis
 - Estrutura e fontes que aumentam a chance de ser referenciado
 - Autoridade e consistência de informação
+
+## 🧱 Hierarquia de headings (marcação para os motores)
+A marcação correta de títulos é **leitura para os motores** (Google + LLMs) — não é estética.
+- **Hierarquia:** H1 (único) > H2 (tópicos do pilar) > **H3/H4 quando necessário** para detalhar
+  subtópicos dentro de um H2.
+- **Por que importa:**
+  - *SEO:* comunica a estrutura/relação dos tópicos; ajuda snippets e sitelinks.
+  - *AEO/GEO:* os motores **fatiam o conteúdo por heading** (cada H2/H3 vira um "chunk").
+    Heading claro + resposta direta logo abaixo = trecho **extraível e citável** no AI Overview.
+- **Regras:** um só H1; **nunca pular níveis** (sem H4 sem H3 acima); cada heading descreve a
+  seção e, de preferência, **espelha a pergunta real do usuário** (validada na pesquisa de termos).
 
 ## 🛡️ Considerações de conteúdo
 ### YMYL (Your Money or Your Life)

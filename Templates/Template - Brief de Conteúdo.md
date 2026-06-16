@@ -37,10 +37,12 @@ tags: [brief, conteudo]
 - YMYL: sim ☐ / não ☐ — se sim, reforçar E-E-A-T/fontes
 - Commodity: ângulo diferenciador → 
 
-## 🧱 Estrutura (SEO + AEO)
-- Title/H1: 
-- Meta description: 
-- Headings (H2/H3) + perguntas (PAA): 
+## 🧱 Estrutura (SEO + AEO) — hierarquia H1 > H2 > H3 > H4
+> Headings = leitura para os motores (Google fatia o tema; LLMs fatiam em chunks por heading).
+> Usar H3/H4 quando necessário; um só H1; não pular níveis; heading espelha a pergunta real.
+- Title/H1 (até 65 caracteres): 
+- Meta description (até 165 caracteres): 
+- Headings (H2 = tópicos; H3/H4 = subtópicos) + perguntas (PAA): 
 - Pontos citáveis (GEO): 
 - FAQ / schema: 
 

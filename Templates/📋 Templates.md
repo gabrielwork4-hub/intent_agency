@@ -16,6 +16,8 @@ tags: [templates, indice]
 - [[Template - Projeto]]
 - [[Template - Acompanhamento e Resultados]]
 - [[Template - Brief de Conteúdo]]
+- [[Template - Cluster de Keywords]]
+- [[Template - Report Mensal]]
 
 ## ⚙️ Configuração do Templater (uma vez)
 1. Settings → Templater → **Template folder location** = `Templates`

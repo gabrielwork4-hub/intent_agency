@@ -60,9 +60,13 @@ Jaguaré · Parque Continental · Presidente Altino
 - [ ] Ajustar AggregateRating (só onde há reviews reais)
 
 ### Conteúdo / on-page
-- [ ] Empurrar os 4 posts em striking distance (posições 11–40) para o top 10
+- **Blog existente:** 16 posts (publicados 16/mai/2026) — cobertura ampla, mas rankeando
+  em pos 30–99. **Prioridade = otimizar o que existe** (Frente A) antes de criar novo.
+- [ ] Empurrar os posts em striking distance (posições 11–40) para o top 10
 - [ ] Criar páginas de serviço (Mecânica Geral, Auto Elétrica, Turbina, Injeção,
       Diagnóstico, Suspensão e Freios, Revisão Preventiva)
+- [ ] Conteúdo novo: só GAPS (ver [[Pautas Blog - Gold Car - 2026-06]] — turbina, ar-condicionado,
+      câmbio automático, alternador, airbag + locais Jaguaré/Osasco/Rio Pequeno)
 - [ ] Explorar os diferenciais como conteúdo (Leva & Traz, transparência, diagnóstico grátis)
 
 ### SEO local

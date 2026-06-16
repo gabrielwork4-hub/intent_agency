@@ -36,7 +36,10 @@ Construindo fio a fio. Status: ⬜ a fazer · 🔄 em construção · ✅ pronta
 - [[Aprendizados Validados]] — o que validamos nas execuções; realimenta as metodologias
 
 ## 📋 Checklists e processos
-*(em construção)*
+- [[Cadência de Revisão]] — ritmo de revisão e reporte por cliente
+
+## ✍️ Recursos reutilizáveis
+- [[Biblioteca de Copy]] — trechos de copy validados
 
 ## 📖 Referências
 *(em construção)*

@@ -33,8 +33,8 @@ tags: [metodologia, seo, on-page, conhecimento]
 - [ ] Atualização/frescor quando relevante
 
 ### Estrutura e HTML
-- [ ] **Title tag** única e otimizada (~50–60 caracteres)
-- [ ] **Meta description** persuasiva (~150–155 caracteres)
+- [ ] **Title tag** única e otimizada — **padrão: até 65 caracteres**
+- [ ] **Meta description** persuasiva — **padrão: até 165 caracteres**
 - [ ] **Um único H1**; hierarquia correta de H2/H3
 - [ ] **URL** curta, descritiva, com keyword
 - [ ] **Canonical** correta (evitar duplicação — ex. caso Gold Car .html vs sem extensão)

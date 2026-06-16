@@ -32,6 +32,10 @@ tags: [acompanhamento, resultados, gold-car, seo]
 | Data | Ação | Metodologia | Resultado esperado |
 |---|---|---|---|
 | 2026-06-16 | Estruturação da inteligência do cliente no cofre (ICP, projeto, baseline) | — | base para execução |
+| 2026-06-16 | 8 pautas de blog do mês a partir do GSC ([[Pautas Blog - Gold Car - 2026-06]]) | [[Metodologia - Estudo de Palavras-chave e Clusterização]] | capturar buscas informacionais com tração |
+| 2026-06-16 | Estudo Ahrefs + benchmark SERP ([[Estudo de Keywords e Benchmark - Gold Car - 2026-06]]) | #2 + #3 | recalibrar prioridade: otimizar posts existentes + GMN |
+| 2026-06-16 | 8 pautas novas validadas para 2026-07 ([[Pautas Blog - Gold Car - 2026-07]]) | #2 | conteúdo novo de alto traffic potential, sem duplicar |
+| 2026-06-16 | 8 briefs validados (perguntas reais) + 1º artigo escrito ([[Artigo - Luz de Injeção Acesa (Gold Car)]]) | #3 | produção padronizada AEO/GEO |
 |  | *(próx: corrigir 4 problemas técnicos)* | [[Metodologia - SEO On-Page]] | destravar indexação/ranqueamento |
 
 ## 📈 Resultados ao longo do tempo

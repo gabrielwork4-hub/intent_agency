@@ -65,38 +65,36 @@ que dão visão e automações que poupam tempo — sem perder a simplicidade do
 ---
 
 ## 🎨 FASE 3 — Visualização e fluxo
-### 3.1 Kanban (pipeline) ⬜
+### 3.1 Kanban (pipeline) ⬜ *(depende de instalar plugin Kanban)*
 - **O que:** quadro visual de tarefas/conteúdo por cliente.
-- **Valor p/ operação:** gestão visual quando a produção crescer.
-- **Esforço:** baixo-médio.
+- **Nota:** o [[📅 Pipeline de Conteúdo]] (Dataview) já cobre isso. Kanban é alternativa visual opcional.
 
-### 3.2 Canvas / Excalidraw (mapas de estratégia) ⬜
+### 3.2 Canvas / Excalidraw (mapas de estratégia) ⬜ *(manual)*
 - **O que:** mapa visual ICP → clusters → páginas (com setas); funis/jornadas.
-- **Valor p/ operação:** desenhar estratégia por cliente de forma visual.
-- **Esforço:** médio.
+- **Nota:** Canvas é nativo; montar manualmente por cliente quando precisar.
 
 ---
 
 ## 🤖 FASE 4 — Automação e captura
-### 4.1 QuickAdd ⬜
+### 4.1 QuickAdd 🔄 *(estrutura pronta; falta instalar plugin)*
 - **O que:** capturar ideia/keyword rápido sem abrir nota.
-- **Valor p/ operação:** não perder insights no meio da execução.
+- **Status:** inbox criado em [[📥 Captura]] com instruções. Falta instalar o plugin QuickAdd.
 ### 4.2 Ajuste fino do Obsidian Git ⬜
-- **O que:** revisar intervalo de commit para histórico mais limpo.
-- **Valor p/ operação:** versionamento organizado.
+- **O que:** revisar intervalo de commit (hoje 1 min) para ~5–10 min → histórico mais limpo.
+- **Valor p/ operação:** versionamento organizado. *(ajuste de configuração — você faz)*
 
 ---
 
 ## 💡 FASE 5 — Inovações (RAG + agência)
-### 5.1 Clusters de keywords como dados no cofre ⬜
-- **O que:** registrar a planilha clusterizada dentro do Obsidian (Dataview consulta).
-- **Valor p/ operação:** o estudo de palavras entra no RAG; eu (Claude) consulto direto.
-### 5.2 Biblioteca de copy validado ("snippets") ⬜
+### 5.1 Clusters de keywords como dados no cofre ✅
+- **O que:** registrar clusters como notas (Dataview consulta) — entra no RAG.
+- **Status:** [[📋 Templates|Template - Cluster de Keywords]] criado (serviço + pauta amarrados).
+### 5.2 Biblioteca de copy validado ("snippets") ✅
 - **O que:** trechos de copy que converteram, reutilizáveis.
-- **Valor p/ operação:** acelera produção e melhora qualidade (liga em [[Aprendizados Validados]]).
-### 5.3 Revisões agendadas (cadência) ⬜
+- **Status:** criada em [[Biblioteca de Copy]].
+### 5.3 Revisões agendadas (cadência) ✅
 - **O que:** ritmo mensal por cliente + template de report.
-- **Valor p/ operação:** alimenta o ciclo de validação de forma consistente.
+- **Status:** [[Cadência de Revisão]] + [[📋 Templates|Template - Report Mensal]] criados.
 
 ---
 
@@ -115,13 +113,13 @@ que dão visão e automações que poupam tempo — sem perder a simplicidade do
 | 2 | Central de Comando | médio | ✅ |
 | 2 | Pipeline de Conteúdo | médio | ✅ |
 | 2 | Visão de Resultados | médio | ✅ |
-| 3 | Kanban | baixo-médio | ⬜ |
-| 3 | Canvas/Excalidraw | médio | ⬜ |
-| 4 | QuickAdd | baixo | ⬜ |
-| 4 | Ajuste Git | baixo | ⬜ |
-| 5 | Clusters como dados | médio | ⬜ |
-| 5 | Biblioteca de copy | baixo | ⬜ |
-| 5 | Revisões agendadas | médio | ⬜ |
+| 3 | Kanban | baixo-médio | ⬜ (opcional, requer plugin) |
+| 3 | Canvas/Excalidraw | médio | ⬜ (manual, quando precisar) |
+| 4 | QuickAdd | baixo | 🔄 (estrutura ✅, falta plugin) |
+| 4 | Ajuste Git | baixo | ⬜ (você ajusta) |
+| 5 | Clusters como dados | médio | ✅ |
+| 5 | Biblioteca de copy | baixo | ✅ |
+| 5 | Revisões agendadas | médio | ✅ |
 
 ---
 🔗 Relacionado: [[🗺️ Índice Mestre]] · [[📚 Conhecimento]] · [[🤖 Manual do Cofre para IA]]
