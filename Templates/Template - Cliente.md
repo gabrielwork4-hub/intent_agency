@@ -1,6 +1,11 @@
+<%*
+// Pergunta o nome do cliente e renomeia a nota automaticamente
+const nome = await tp.system.prompt("Nome do cliente");
+await tp.file.rename(nome);
+-%>
 ---
 tipo: cliente
-nome: 
+nome: <% nome %>
 segmento: 
 status: ativo
 vinculo: 
@@ -16,10 +21,10 @@ atualizado: <% tp.date.now("YYYY-MM-DD") %>
 tags: [cliente]
 ---
 
-# <% tp.file.title %>
+# <% nome %>
 
-> Resumo do cliente em 1-2 linhas. Público em [[ICP - <% tp.file.title %>]] ·
-> estratégia em [[Projeto - <% tp.file.title %>]].
+> Resumo do cliente em 1-2 linhas. Público em [[ICP - <% nome %>]] ·
+> estratégia em [[Projeto - <% nome %>]].
 
 ## O que vende / faz
 - 
@@ -37,9 +42,9 @@ tags: [cliente]
 - 
 
 ## Inteligência do cliente
-- 🎯 Público-alvo: [[ICP - <% tp.file.title %>]]
-- 📈 Estratégia: [[Projeto - <% tp.file.title %>]]
-- 📊 Acompanhamento e resultados: [[Acompanhamento - <% tp.file.title %>]]
+- 🎯 Público-alvo: [[ICP - <% nome %>]]
+- 📈 Estratégia: [[Projeto - <% nome %>]]
+- 📊 Acompanhamento e resultados: [[Acompanhamento - <% nome %>]]
 
 ## Anotações
 - 
