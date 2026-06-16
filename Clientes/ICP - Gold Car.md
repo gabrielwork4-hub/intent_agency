@@ -28,6 +28,30 @@ tags: [icp, automotivo, gold-car]
 - Conveniência (resolver sem transtorno)
 - Preço justo com possibilidade de parcelar
 
+## 🗣️ Linguagem do cliente
+> Como o cliente realmente fala e busca (não o jargão técnico). Elo direto com palavras-chave
+> e copy. ⚠️ *Derivado das dores/contexto — validar/enriquecer com as avaliações reais (60+).*
+
+### Como busca no Google
+- "mecânico de confiança perto de mim"
+- "oficina que não engana / não enrola"
+- "mecânico honesto zona oeste"
+- "quanto custa pra arrumar [serviço]"
+- "oficina que busca o carro" (Leva & Traz)
+- "mecânico [bairro]" (vila lageado, butantã, osasco...)
+
+### Como fala / o que valoriza (vocabulário das reviews)
+- "não me enrolaram", "explicaram tudo direitinho"
+- "me mandaram foto/vídeo do serviço"
+- "preço justo", "honestidade", "transparência"
+- "atendimento do João" (pessoas viram referência de confiança)
+
+## 🚫 Anti-ICP (quem NÃO é o cliente ideal)
+- **Frota B2B / grandes empresas** (sem foco corporativo declarado)
+- **Carros premium / luxo / exóticos** (posicionamento é popular e intermediário)
+- **Caçador de menor preço** que não valoriza transparência/qualidade
+- **Fora da área de cobertura** do Leva & Traz (inviabiliza o principal diferencial)
+
 ## 🧠 Resumo
 > Motorista da Zona Oeste/Osasco, carro popular/intermediário, que quer uma oficina honesta,
 > transparente e conveniente — e desconfia de quem "enrola". O Leva & Traz e a transparência
