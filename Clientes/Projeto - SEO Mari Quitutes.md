@@ -65,6 +65,7 @@ Jardim Bonfiglioli · Raposo Tavares
 - [ ] Eventos Corporativos
 
 ### SEO local
+- [ ] **Confirmar existência/status do GMN** (perfil no Google Maps) — *pendente de verificação*
 - [ ] Otimizar perfil do Google Business
 - [ ] Avaliações com palavras-chave
 - [ ] Geolocalização das imagens
