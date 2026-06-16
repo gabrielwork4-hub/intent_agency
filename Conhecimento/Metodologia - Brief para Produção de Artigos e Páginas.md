@@ -2,7 +2,7 @@
 tipo: metodologia
 etapa: 3
 fase: estratégia e planejamento
-status: em construção
+status: pronta
 atualizado: 2026-06-15
 tags: [metodologia, brief, conteudo, aeo, geo, seo, conhecimento]
 ---
@@ -55,16 +55,18 @@ Todo brief considera as três camadas:
 
 ## 🛡️ Considerações de conteúdo
 ### YMYL (Your Money or Your Life)
-Quando o tema afeta saúde, finanças, segurança ou decisões importantes:
-- Reforçar **E-E-A-T** (experiência, expertise, autoridade, confiança)
+Avaliar **quando aplicável**. Se o tema afeta saúde, finanças, segurança ou decisões
+importantes, é necessário **potencializar o conteúdo** com:
+- Reforço de **E-E-A-T** (experiência, expertise, autoridade, confiança)
 - Precisão factual, fontes confiáveis, autoria/credibilidade
-- *(a validar: como você sinaliza/marca um conteúdo como YMYL?)*
+- Avaliação feita peça a peça (sim/não YMYL) — quando sim, sobe o nível de rigor.
 
 ### Nível de commodity
-Quando o tema é commoditizado (todos dizem o mesmo):
-- Exigir **diferenciação** — ângulo único, dado próprio, experiência real do cliente
-- Evitar conteúdo genérico que não compete
-- *(a validar: como você decide o "ângulo" diferenciador?)*
+Quando o tema é commoditizado (todos dizem o mesmo), exigir **diferenciação**. O ângulo
+único vem de:
+- **Diferencial do cliente** (o "casamento" diferencial × dor de [[Metodologia - Briefing e Construção do ICP]])
+- **Experiência real** do cliente (casos, provas, dados próprios)
+- Evitar conteúdo genérico que não compete.
 
 ## 📋 Estrutura padrão do brief (checklist)
 - [ ] Benchmark de SERP feito (padrões replicáveis extraídos)

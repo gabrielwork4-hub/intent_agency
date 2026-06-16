@@ -17,7 +17,7 @@ Construindo fio a fio. Status: ⬜ a fazer · 🔄 em construção · ✅ pronta
 ### Estratégia e planejamento
 1. ✅ [[Metodologia - Briefing e Construção do ICP]]
 2. ✅ [[Metodologia - Estudo de Palavras-chave e Clusterização]]
-3. ⬜ [[Metodologia - Brief para Produção de Artigos e Páginas]]
+3. ✅ [[Metodologia - Brief para Produção de Artigos e Páginas]]
 
 ### SEO
 4. ⬜ [[Metodologia - SEO On-Page]]
