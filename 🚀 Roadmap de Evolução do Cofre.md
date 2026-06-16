@@ -25,11 +25,10 @@ que dão visão e automações que poupam tempo — sem perder a simplicidade do
 ## 📐 FASE 1 — Fundação de produtividade
 > Maior alavancagem: multiplica tudo que já construímos.
 
-### 1.1 Dataview ⬜
+### 1.1 Dataview ✅
 - **O que:** plugin que consulta o frontmatter como banco de dados.
-- **Valor p/ operação:** ativa os painéis automáticos (clientes ativos, tarefas, resultados)
-  que já deixamos prontos. Sem ele, as queries ficam só como código.
-- **Esforço:** baixo (instalar + ativar). **Depende de:** nada.
+- **Valor p/ operação:** ativa os painéis automáticos (clientes ativos, tarefas, resultados).
+- **Status:** instalado e ativo (v0.5.68). Painéis renderizando.
 
 ### 1.2 Templater + pasta /Templates 🔄
 - **O que:** criação de notas já padronizadas (cliente, projeto, acompanhamento, brief).
@@ -49,11 +48,11 @@ que dão visão e automações que poupam tempo — sem perder a simplicidade do
 ## 📊 FASE 2 — Dashboards (visão da operação)
 > Requer Dataview (Fase 1).
 
-### 2.1 Central de Comando ⬜
-- **O que:** nota-painel que mostra automaticamente: clientes ativos, tarefas pendentes de
-  todos os projetos, hipóteses em aberto, próximas revisões.
+### 2.1 Central de Comando ✅
+- **O que:** nota-painel que mostra automaticamente: clientes, projetos, tarefas pendentes,
+  acompanhamentos e status das metodologias.
 - **Valor p/ operação:** visão única do dia — o que fazer agora, em qual cliente.
-- **Esforço:** médio.
+- **Status:** criada em [[🧭 Central de Comando]] (ativa com Dataview).
 
 ### 2.2 Pipeline de Conteúdo ⬜
 - **O que:** status de cada página/pauta (a fazer → escrevendo → publicado → ranqueando).
@@ -112,10 +111,10 @@ que dão visão e automações que poupam tempo — sem perder a simplicidade do
 ## 📊 Resumo (visão rápida)
 | Fase | Item | Esforço | Status |
 |---|---|---|---|
-| 1 | Dataview | baixo | ⬜ |
-| 1 | Templater + Templates | médio | ⬜ |
-| 1 | Graph cores + Hotkeys | baixo | ⬜ |
-| 2 | Central de Comando | médio | ⬜ |
+| 1 | Dataview | baixo | ✅ |
+| 1 | Templater + Templates | médio | 🔄 (falta apontar pasta) |
+| 1 | Graph cores + Hotkeys | baixo | 🔄 (Hotkeys++ instalado) |
+| 2 | Central de Comando | médio | ✅ |
 | 2 | Pipeline de Conteúdo | médio | ⬜ |
 | 2 | Visão de Resultados | médio | ⬜ |
 | 3 | Kanban | baixo-médio | ⬜ |

@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "llm-wiki",
+  "hotkeysplus-obsidian"
 ]
