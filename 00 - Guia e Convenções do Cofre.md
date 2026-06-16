@@ -55,7 +55,7 @@ tags: [cliente]
 **Projeto**
 ```yaml
 tipo: projeto
-cliente: "[[Nome do Cliente]]"
+cliente: "[[Nome real do cliente aqui]]"   # ex.: usar o nome real, vira link
 status: em início | em andamento | concluído
 prioridade: alta | média | baixa
 prazo:
@@ -93,7 +93,7 @@ Conteúdo auto-contido...
 ## Seção 2
 ...
 
-🔗 Relacionado: [[Outra Nota]] · [[Mais Uma]]
+🔗 Relacionado: [[🗺️ Índice Mestre]] · [[📚 Conhecimento]]
 
 #tags #relevantes
 ```
