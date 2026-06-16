@@ -21,7 +21,7 @@ Construindo fio a fio. Status: ⬜ a fazer · 🔄 em construção · ✅ pronta
 
 ### SEO
 4. ✅ [[Metodologia - SEO On-Page]]
-5. ⬜ [[Metodologia - SEO Local]]
+5. ✅ [[Metodologia - SEO Local]]
 6. ⬜ [[Metodologia - SEO Off-Page]]
 
 ### Geração de demanda (mídia paga)
