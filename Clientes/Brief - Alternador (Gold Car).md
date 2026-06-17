@@ -3,7 +3,8 @@ tipo: brief-conteudo
 cliente: "[[Gold Car]]"
 peca: Alternador
 destino: blog (pilar)
-status: a fazer
+status: em revisão
+artigo: "[[Artigo - Alternador (Gold Car)]]"
 ymyl: não
 commodity: médio
 keyword_principal: alternador

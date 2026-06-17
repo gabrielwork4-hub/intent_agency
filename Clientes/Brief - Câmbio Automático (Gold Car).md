@@ -3,7 +3,8 @@ tipo: brief-conteudo
 cliente: "[[Gold Car]]"
 peca: Câmbio automático
 destino: blog (pilar)
-status: a fazer
+status: em revisão
+artigo: "[[Artigo - Câmbio Automático (Gold Car)]]"
 ymyl: não
 commodity: médio
 keyword_principal: câmbio automático
