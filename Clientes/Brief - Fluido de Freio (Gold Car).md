@@ -3,7 +3,8 @@ tipo: brief-conteudo
 cliente: "[[Gold Car]]"
 peca: Fluido de freio
 destino: blog (pilar)
-status: a fazer
+status: em revisão
+artigo: "[[Artigo - Fluido de Freio (Gold Car)]]"
 ymyl: não
 commodity: médio
 keyword_principal: fluido de freio

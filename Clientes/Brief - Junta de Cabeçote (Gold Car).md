@@ -3,7 +3,8 @@ tipo: brief-conteudo
 cliente: "[[Gold Car]]"
 peca: Junta de cabeçote
 destino: blog (pilar)
-status: a fazer
+status: em revisão
+artigo: "[[Artigo - Junta de Cabeçote (Gold Car)]]"
 ymyl: não
 commodity: médio
 keyword_principal: junta de cabeçote
