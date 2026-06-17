@@ -2,81 +2,108 @@
 tipo: icp
 cliente: "[[ID Singular]]"
 mercado: B2B corporativo e institucional
-atualizado: 2026-06-15
-tags: [icp, geracao-de-demanda, id-singular]
+modelo: ICP em 3 camadas (Conta → Comitê → Dores & Gatilhos)
+fonte: GTM Educação Corporativa (ID Singular)
+atualizado: 2026-06-16
+tags: [icp, geracao-de-demanda, id-singular, b2b]
 ---
 
-# 🎯 ICP — ID Singular
+# 🎯 ICP — ID Singular (3 camadas)
 
-> ICP (Ideal Customer Profile) para a geração de demanda qualificada da [[ID Singular]].
-> **Não é consumidor final — é B2B corporativo e institucional.**
+> ICP para a geração de demanda qualificada da [[ID Singular]] — B2B corporativo/institucional.
+> Estruturado em 3 camadas: **Conta** (qual empresa), **Comitê** (quem decide), **Dores & Gatilhos**
+> (o que sentem + quando abordar). Base: documento GTM. Ver também [[Escopo - ID Singular]].
 
-## 🏢 Tipo de empresa ideal
-- Médias e grandes empresas
-- Organizações públicas e privadas
-- Instituições complexas com múltiplas lideranças
-- Empresas em transformação cultural ou crescimento
+---
 
-## 📊 Segmentos mais comuns
-- Indústria e logística
-- Setor financeiro e bancos
-- Saúde e hospitais
-- Governo e órgãos públicos
-- Educação corporativa e fundações
-- Grandes operações (energia, transporte, infraestrutura)
+## 🏢 CAMADA 1 — Conta (empresa-alvo)
 
-## 👥 Perfil de decisor (quem compra)
-- CHRO / RH estratégico
-- Diretor de Pessoas e Cultura
-- CEO / Diretoria executiva
-- Gestores de desenvolvimento organizacional
-- Área de T&D (Treinamento e Desenvolvimento)
+### Perfil firmográfico
+- **Porte:** médias e grandes empresas, organizações públicas e privadas
+- **Setores:** indústria/logística, financeiro/bancos, saúde/hospitais, governo/órgãos públicos,
+  educação corporativa/fundações, grandes operações (energia, transporte, infraestrutura)
+- **Momento:** em transformação cultural, crescimento, troca de liderança ou pressão por performance
+- **Prova de fit:** já atende Caixa, Unimed, VLI, PMESP, Sebrae
 
-## 🩹 Dores principais
-- Baixa eficiência de liderança
-- Falta de alinhamento cultural interno
-- Problemas de engajamento de equipes
-- Dificuldade em transformar estratégia em execução
-- Alta rotatividade / falhas de retenção
-- Necessidade de padronizar competências entre áreas
-- Falta de dados sobre comportamento e performance
+### Contexto de mercado (por que a conta compra a ID)
+O mercado é um "oceano vermelho" de soluções genéricas (edtechs de escala + consultorias frias).
+A conta-alvo está **saturada de "mais do mesmo"** e busca personalização real + humanização com
+performance — o "oceano azul" da ID (Metodologia Singular®).
 
-## 🎯 Objetivos do cliente ideal
-- Desenvolver lideranças fortes
-- Criar cultura organizacional consistente
-- Aumentar performance sem perder humanização
-- Estruturar trilhas de aprendizagem
-- Melhorar clima organizacional
-- Aumentar eficiência de gestão e tomada de decisão
+---
 
-## 🗣️ Linguagem do cliente (decisor B2B)
-> Como o decisor (CHRO/CEO/T&D) fala e busca solução. Base para mensagem de outbound e conteúdo.
+## 👥 CAMADA 2 — Comitê de compra (a jornada das 4 personas)
 
-### Como busca / termos de solução
-- "desenvolvimento de liderança", "programa de liderança"
-- "consultoria de cultura organizacional", "clima organizacional"
-- "treinamento corporativo personalizado", "trilha de desenvolvimento"
-- "assessment de competências", "avaliação de potencial", "PDI"
-- "transformação cultural", "gestão por competências"
+> A compra B2B passa por um comitê. A demanda precisa falar com cada um no momento certo —
+> conquistar a base técnica leva a marca ao decisor com relevância.
 
-### Vocabulário da marca (para casar o discurso)
-- Metáfora náutica: "jornada", "rota", "bússola", "farol", "navegar com clareza"
-- "educação corporativa que faz sentido", "personalizado vs. pronto"
+### 1. 🔎 Pesquisadora — Analista (RH / DHO / T&D / Cultura) · júnior-pleno
+- **Papel:** prospecta fornecedores, baixa materiais, monta a shortlist. Influenciador indireto.
+- **Dor:** não sabe transformar desafios em programas reais; mercado confuso (todos prometem "personalização").
+- **Busca:** materiais claros, jornada visual, soluções fáceis de explicar ao gestor; "fazer ela brilhar".
+- **Posicionamento ID:** clareza, simplicidade visual, LPs diretas, checklists — "tiramos o peso da sua mão".
 
-## 🚫 Anti-ICP (quem NÃO é o cliente ideal) — *provisório, em refinamento*
-Hipóteses iniciais (a confirmar/ajustar):
-- **Pessoa física / consumidor final** (é B2B institucional)
-- **Pequenas empresas** sem estrutura/orçamento para consultoria personalizada
-- Quem busca **curso pronto/genérico barato** (a ID entrega sob medida, não prateleira)
+### 2. 🧠 Curadoria — Especialista / Business Partner (DHO / T&D / Cultura) · pleno-sênior
+- **Papel:** avalia profundidade metodológica, faz perguntas difíceis, monta a recomendação técnica.
+- **Dor:** soluções superficiais; treinamentos que engajam no dia e morrem depois.
+- **Busca:** metodologia + humanização, diagnóstico de verdade, construção conjunta.
+- **Posicionamento ID:** marca consultiva e profunda — Metodologia Singular, mensuração emocional, personalização radical.
 
-> 🔄 **Será refinado com dados internos** de qualificação de leads e taxa de fechamento final
-> (quem realmente converte vs. quem não avança). Atualizar conforme a ID Singular fornecer
-> esses dados da operação comercial.
+### 3. 💼 Gestor da área — Gerente (RH / Pessoas e Cultura / DHO-T&D)
+- **Papel:** decide qual fornecedor vai para proposta, valida abordagem, analisa custo x benefício. **Mais fala com vendas.**
+- **Dor:** soluções sem engajamento real; falta de conexão desenvolvimento ↔ negócio; provar ROI humano.
+- **Busca:** solidez metodológica, cases de impacto, indicadores concretos, jornada estruturada.
+- **Posicionamento ID:** empresa premium de transformação humana com método e evidências; linguagem de business.
+
+### 4. 👑 Head / Decisor final — Diretor de RH / CHRO / VP de Pessoas
+- **Papel:** palavra final no investimento; entra em programas grandes (liderança, cultura, sucessão). Avalia risco e legado.
+- **Dor:** treinamentos que não mudam comportamento; falta de dados para mostrar à diretoria executiva.
+- **Busca:** segurança, reputação, métricas claras, histórias de transformação real.
+- **Posicionamento ID:** parceira estratégica (não fornecedor); propósito + performance com dados de impacto.
+
+---
+
+## 🩹 CAMADA 3 — Dores & Gatilhos
+
+### Dores em 3 níveis
+- **Estratégicas:** desalinhamento desenvolvimento ↔ estratégia; falta de personalização real;
+  dificuldade de mensurar resultado; desafio de engajar lideranças; cansaço do "mais do mesmo".
+- **Operacionais:** excesso de demanda e pouco tempo; dificuldade de traduzir diagnóstico em ação;
+  desconexão entre áreas; oferta confusa no mercado.
+- **Emocionais:** frustração com a superficialidade; pressão por resultado rápido vs. propósito;
+  desejo de deixar um legado.
+
+### O que buscam e não encontram (oportunidade)
+Personalização real · conexão pessoas↔estratégia · engajamento · mensuração de impacto ·
+integração cultura↔aprendizagem · **parceiro de coautoria, não fornecedor transacional**.
+
+### 🎯 Gatilhos / sinais de oportunidade (quando abordar)
+- Troca de liderança / nova diretoria de RH
+- Alta rotatividade ou queda de engajamento/clima
+- Pressão da diretoria por ROI/impacto humano
+- Reestruturação, fusão ou crescimento acelerado
+- Programa de liderança/cultura/sucessão entrando no planejamento
+- Frustração recente com fornecedor genérico
+
+---
+
+## 🗣️ Linguagem do cliente
+- Como busca: "consultoria de cultura organizacional", "programa de liderança", "trilha de
+  desenvolvimento", "assessment de competências", "clima organizacional", "PDI".
+- Vocabulário da marca (espelhar): jornada, rota, bússola, "humanização + performance",
+  "personalizado vs. pronto", "parceiro, não fornecedor".
+
+## 🚫 Anti-ICP — *provisório, refinar com dados de fechamento*
+- Pessoa física / consumidor final · pequenas empresas sem estrutura/orçamento ·
+  quem busca curso pronto/genérico barato (a ID entrega sob medida).
 
 ## 🧠 Resumo
-> Grandes empresas e órgãos públicos que precisam melhorar **liderança, cultura e performance organizacional**.
+> **Conta:** média/grande empresa ou órgão público saturado de soluções genéricas. **Comitê:**
+> Analista (detecta) → Especialista (avalia método) → Gestor (decide proposta) → CHRO (aprova).
+> **Gatilho:** troca de liderança, baixa retenção ou pressão por impacto humano. A ID entra como
+> parceira de transformação (humanização + performance), não como fornecedor de treinamento.
 
 ---
-🔗 Relacionado: [[Escopo - ID Singular]] · [[ID Singular]]
+🔗 Relacionado: [[ID Singular]] · [[Escopo - ID Singular]] · [[Projeto - Geração de Demanda ID Singular]]
 
-#icp #geracao-de-demanda
+#icp #geracao-de-demanda #b2b

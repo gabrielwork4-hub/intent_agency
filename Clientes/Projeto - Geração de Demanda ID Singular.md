@@ -14,6 +14,7 @@ tags: [projeto, geracao-de-demanda, id-singular]
 
 > Projeto de [[ID Singular]]. Estrutura inicial — vamos validar e aperfeiçoar.
 > Referências base: [[ICP - ID Singular]] (pra quem) · [[Escopo - ID Singular]] (o que ofertar).
+> 🚀 Calendário de campanhas: [[Grade de Lançamentos - ID Singular & Wevia 2026]] (8 lançamentos jun–nov).
 
 ## 🎯 Objetivo do projeto
 Gerar **demanda qualificada B2B** (reuniões com decisores do [[ICP - ID Singular]]) para a ID Singular.
