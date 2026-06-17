@@ -42,6 +42,7 @@ tags: [acompanhamento, resultados, id-singular, geracao-de-demanda]
 | 2026-06-16 | Overview executivo + diagnóstico e plano de ação do lançamento | — | documentação para alinhamento e execução |
 | 2026-06-17 | Backlog do gestor anterior analisado ([[Backlog - Gestor de Tráfego Anterior (ID Singular)]]) | — | benchmarks reais + bloqueio de contas identificado |
 | 2026-06-17 | ✅ Contas Meta + LinkedIn regularizadas (pagas) | — | bloqueador resolvido — go-live 22/06 liberado |
+| 2026-06-17 | 5 copies do time anterior registradas + analisadas ([[Copies Anteriores - Liderança (ID Singular)]]) | #3 | eixo "treinados x transformados" como mensagem central |
 |  | *(próx: definir canais prioritários + mensagem por persona)* | — | iniciar geração de demanda |
 
 ## 📈 Resultados ao longo do tempo
