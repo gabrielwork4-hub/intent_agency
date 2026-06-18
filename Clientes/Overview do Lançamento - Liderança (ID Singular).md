@@ -19,13 +19,13 @@ Campanha de **fundo de funil** para gerar leads qualificados de empresas/órgão
 ## 📌 Resumo rápido
 | Item | Definição |
 |---|---|
-| **Período** | 22 a 30/06 (sprint de 9 dias) |
+| **Período** | 30 dias diretos (a partir da virada do mês · ~01–31/07) |
 | **Marca** | ID Singular · Educação Corporativa |
 | **Estratégia** | Fundo de funil (aquisição/conversão) |
 | **Oferta** | Diagnóstico de Liderança Singular (gratuito) |
 | **Budget** | R$ 9.000 (~R$ 1.000/dia) |
-| **Meta** | 52 leads · 6 SQLs · CPL R$ 182 *(teto)* |
-| **Expectativa realista** | ~43 leads · ~5 SQLs · CPL ~R$ 210 (sprint curto) |
+| **Meta de trabalho (30 dias)** | ~30 leads · ~3–4 SQLs · CPL ~R$ 300 · custo/SQL ~R$ 2.500 |
+| **Meta-teto otimista** | ~49 leads · ~6 SQLs · CPL R$ 182 *(stretch)* |
 
 ## 👥 Público (comitê de compra)
 Decisores e influenciadores de RH/DHO/T&D em médias/grandes empresas e órgãos públicos:

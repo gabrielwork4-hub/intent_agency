@@ -11,8 +11,8 @@ tags: [plano-midia, performance, lideranca, id-singular]
 
 > Base de planejamento da campanha de Liderança ([[Brief de Campanha - Liderança (ID Singular)]]),
 > oferta [[Oferta de Conversão - Liderança (ID Singular)]]. Metas: 52 leads · 6 SQLs · CPL R$182,69.
-> **Rodando 22–30/06 (9 dias)** · ~R$ 1.000/dia. Pacing e implicações do sprint em
-> [[Estrutura de Campanha - Liderança (ID Singular)]]. Sprint curto → cenário **conservador** é o mais provável.
+> **Rodando 30 dias diretos** (a partir da virada do mês · ~01–31/07) · ~R$ 300/dia. Pacing fasado e
+> projeção em [[Projeção 30 Dias - Liderança (ID Singular)]] → ~30 leads · ~3–4 SQLs · CPL ~R$ 300.
 
 ## 🧭 Premissa que define o plano
 Validação Ahrefs: a **busca comercial por liderança é pequena** (~900/mês somados, CPC R$35–60).
@@ -20,12 +20,13 @@ Validação Ahrefs: a **busca comercial por liderança é pequena** (~900/mês s
 (Meta/LinkedIn), onde abordamos o decisor com a oferta do diagnóstico. Google entra como captura de
 **alta intenção** (poucos leads, mas mais quentes).
 
-## 💰 Alocação do budget (R$ 9.000)
+## 💰 Alocação do budget (R$ 9.000) — refinada
+> Distribuição e justificativas detalhadas em [[Plano de Investimento - Liderança (ID Singular)]].
 | Canal | Verba | % | Papel |
 |---|---|---|---|
-| **Meta Ads** (FB/IG) | R$ 5.500 | 61% | Motor de volume — remarketing + lookalike + prospecção |
-| **Google Search** | R$ 2.000 | 22% | Captura de alta intenção (limitada por volume) |
-| **LinkedIn Ads** (teste) | R$ 1.500 | 17% | Segmentação precisa por cargo/setor (aprendizado) |
+| **Meta Ads** (FB/IG) | R$ 6.000 | 67% | Motor de volume (proven + base de maio quente) |
+| **LinkedIn Ads** | R$ 2.000 | 22% | Qualidade — segmentação por cargo |
+| **Google Search** | R$ 1.000 | 11% | Alta intenção (volume limitado) |
 
 ## 🎯 Campanhas e segmentações (por canal)
 

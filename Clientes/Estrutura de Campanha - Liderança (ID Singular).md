@@ -13,18 +13,16 @@ tags: [estrutura-campanha, performance, lideranca, id-singular]
 > (verba) e [[Anúncios - Liderança (ID Singular)]] (copy). Destino: [[Copy LP - Diagnóstico de Liderança (ID Singular)]].
 
 ## ⏱️ Janela e pacing do budget
-- **Rodando apenas de 22/06 a 30/06 (9 dias).** R$ 9.000 concentrados → **~R$ 1.000/dia**.
-- Split por canal (no total): Meta R$ 5.500 · Google R$ 2.000 · LinkedIn R$ 1.500.
-  - Diário aprox. (9 dias): **Meta ~R$ 610 · Google ~R$ 220 · LinkedIn ~R$ 165**.
-- **Previsibilidade (por CPL):** R$ 9k ÷ R$ 182 ≈ 49–52 leads · ~6 SQLs.
+- **Rodando 30 dias diretos** (a partir da virada do mês · ~01–31/07). R$ 9.000 → **~R$ 300/dia**.
+- Split por canal: **Meta R$ 6.500 · LinkedIn R$ 1.500 · Google R$ 1.000** (ajustado p/ 30 dias —
+  ver [[Projeção 30 Dias - Liderança (ID Singular)]]).
+- **Pacing fasado:** aquecimento (dias 1–7, ~R$ 1.800) → otimização (8–21, ~R$ 4.200) →
+  escala no vencedor (22–30, ~R$ 3.000).
+- **Previsibilidade (real):** CPL efetivo ~R$ 300 → **~30 leads · ~3–4 SQLs** (custo/SQL ~R$ 2.500).
 
-> ⚠️ **Implicações do sprint de 9 dias (sem aquecimento):**
-> 1. **Fase de aprendizado** das campanhas consome os primeiros ~2–3 dias → CPL inicial mais alto.
-> 2. Sem warm-up, **priorizar públicos quentes desde o dia 22**: remarketing da base de maio (+1.000)
->    e lookalike convertem mais rápido que prospecção fria.
-> 3. Janela curta + aprendizado → **cenário conservador (R$ ~210 CPL / ~43 leads) é o mais provável**;
->    a meta cheia (52) é o teto. Alinhar essa expectativa com o cliente.
-> 4. Concentrar criativos de **maior conversão** logo no início (Anúncios 4-remarketing e 2-CHRO).
+> ✅ **Vantagem dos 30 dias:** a fase de aprendizado amortiza, há ciclos de otimização e o
+> remarketing amadurece → CPL menor que o sprint. LinkedIn em **janela focada (~2 semanas)**, não
+> diário (R$ 300/dia é enxuto para 3 canais; concentrar no Meta).
 
 ## 🏷️ Convenção de nomes
 `IDS_Lideranca_[Canal]_[Objetivo]_[Publico]_jun26`
@@ -32,24 +30,27 @@ Ex.: `IDS_Lideranca_Meta_Leads_Lookalike_jun26`
 
 ---
 
-## 📱 META ADS — R$ 5.500 (objetivo: Cadastros/Leads)
-### Campanha 1 — Prospecção (R$ 3.500)
-- **Conjunto A — Lookalike:** 1–3% de leads/clientes e da base de maio. Ads: 1 (Gestor) + 3 (autoridade).
-- **Conjunto B — Interesse/cargo:** RH, gestão de pessoas, T&D, desenvolvimento organizacional;
-  30–55 anos; Brasil (priorizar regiões dos clientes). Ads: 1 (Gestor) + 3 (autoridade).
-### Campanha 2 — Remarketing (R$ 2.000)
-- **Conjunto único:** visitantes do site (90d) + **base de maio (+1.000)** + engajados FB/IG.
+## 📱 META ADS — R$ 6.500 (objetivo: Cadastros/Leads)
+### Campanha 1 — Remarketing + Lookalike (R$ 3.500) · converte primeiro
+- **Conjunto Remarketing:** visitantes do site (90d) + **base de maio (+1.000)** + engajados FB/IG.
   Ads: 4 (remarketing) + 2 (CHRO/dados).
+- **Conjunto Lookalike:** 1–3% de leads/clientes e da base de maio. Ads: 2 (CHRO) + 3 (autoridade).
+### Campanha 2 — Prospecção fria (R$ 3.000)
+- **Conjunto Interesse/cargo:** RH, gestão de pessoas, T&D, desenvolvimento organizacional,
+  Leadership development; 30–55 anos; Brasil (priorizar regiões dos clientes). Ads: 1 (Gestor) + 3 (autoridade).
 - **Posicionamentos:** Advantage+ (feed/stories/reels). **Otimização:** por conversão (lead na LP).
+- 💡 **Funil 2 passos (do histórico 2025):** rodar posts de tráfego/engajamento baratos
+  (~R$ 0,43/clique, temas gestão/transformação) para **encher a audiência de remarketing** →
+  retargetar com a oferta do Diagnóstico. Audiência quente derruba o CPL. Ver [[Histórico Meta 2025 - ID Singular]].
 
-## 🔎 GOOGLE SEARCH — R$ 2.000 (objetivo: Conversões/Leads)
+## 🔎 GOOGLE SEARCH — R$ 1.000 (objetivo: Conversões/Leads)
 - **1 campanha "Liderança – alta intenção"** · Rede de Pesquisa apenas (sem Display/PMax).
 - **Grupos de anúncio por tema:** (a) "programa/treinamento de liderança"; (b) "desenvolvimento de
   líderes/lideranças"; (c) "consultoria/formação de líderes".
 - **RSA:** títulos e descrições de [[Anúncios - Liderança (ID Singular)]]. **Negativas** aplicadas.
 - **Lance:** Maximizar conversões (ou tCPA após dados). Cap por volume baixo de busca.
 
-## 💼 LINKEDIN — R$ 1.500 (teste · objetivo: Lead Gen)
+## 💼 LINKEDIN — R$ 1.500 (qualidade · burst ~2 semanas · objetivo: Lead Gen)
 - **1 campanha** · Lead Gen Form nativo.
 - **Segmentação:** cargos (CHRO, Dir./Ger. RH, DHO, T&D) · porte 201+ · setores ICP.
 - Copy/campos de [[Anúncios - Liderança (ID Singular)]].

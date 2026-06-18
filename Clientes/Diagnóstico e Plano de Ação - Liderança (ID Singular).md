@@ -40,8 +40,9 @@ conversão lead→SQL 11,53% · **ROI 120%** (só educação corporativa).
 4. **Oferta de diagnóstico** — alto valor percebido, baixo atrito → destrava o lead qualificado.
 
 ### ⚠️ Risco principal
-Meta agressiva (CPL R$ 182) em janela curta (9 dias). **Recomendação:** tratar o cenário
-**conservador (~R$ 210 / ~43 leads)** como base e a meta (52) como teto.
+Meta otimista (CPL R$ 182) é teto, não promessa. **Recomendação:** base de trabalho = **~30 leads /
+~3–4 SQLs / CPL ~R$ 300** (30 dias diretos — ver [[Projeção 30 Dias - Liderança (ID Singular)]]).
+Rodar 30 dias (não sprint) reduz o risco: a fase de aprendizado amortiza e há tempo de otimizar.
 
 ---
 

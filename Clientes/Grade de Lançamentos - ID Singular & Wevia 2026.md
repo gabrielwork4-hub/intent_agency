@@ -15,16 +15,25 @@ tags: [campanhas, lancamentos, geracao-de-demanda, id-singular, wevia]
 > Conecta com [[ICP - ID Singular]] (comitê de compra) e [[Projeto - Geração de Demanda ID Singular]].
 
 ## 🗓️ Visão geral (calendário)
+> ⚠️ **Liderança agora roda 30 dias diretos (~01–31/07)**, não mais 22/06. Isso **sobrepõe** os
+> lançamentos de julho abaixo (Comunicação 06/07, Magnus 27/07) — **calendário a revisar** (ver nota no fim).
+
 | Data | Tema | Marca | Estratégia |
 |---|---|---|---|
-| 22/06 | Liderança | ID Singular | Fundo de funil (aquisição/conversão) |
-| 06/07 | Comunicação & Media Training | ID Singular | Fundo de funil |
+| **~01–31/07 (30 dias)** | **Liderança** | ID Singular | Fundo de funil (aquisição/conversão) |
+| 06/07 ⚠️ | Comunicação & Media Training | ID Singular | Fundo de funil |
 | 27/07 | Magnus (assessment) | Wevia | Isca: teste grátis + automação → conversão |
 | 17/08 | Carreira, Sucessão & Potencial | ID Singular | Fundo de funil |
 | 07/09 | Saúde Organizacional & Bem-Estar | ID Singular | Fundo de funil |
 | 28/09 | Animus (saúde mental/NR-1) | Wevia | Isca com automação |
 | 19/10 | Asset (diagnóstico de cultura) | Wevia + ID Singular | Isca com automação |
 | 16/11 | Plataforma Wevia | Wevia | Isca com automação |
+
+## ⚠️ Calendário a revisar (impacto da decisão de 30 dias)
+Com Liderança ocupando julho inteiro, é preciso decidir:
+- Os demais lançamentos de julho (Comunicação 06/07, Magnus 27/07) **empurram** para frente?
+- Ou rodam **em paralelo** (exige verba adicional — R$ 9k é só de Liderança)?
+- Recomendação: **um lançamento principal por mês** quando a verba é R$ 9k; senão dilui. Decidir com o cliente.
 
 ## 🧭 Lógica estratégica
 - **Concentração no 2º semestre:** é quando grandes empresas e o setor público desenham planos de
