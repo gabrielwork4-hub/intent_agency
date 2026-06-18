@@ -1,7 +1,7 @@
 ---
 tipo: anuncios
 cliente: "[[ID Singular]]"
-lancamento: Liderança · 22/06/2026
+lancamento: Liderança · 23/06/2026
 status: em revisão
 atualizado: 2026-06-16
 tags: [anuncios, criativos, performance, lideranca, id-singular]
@@ -9,7 +9,7 @@ tags: [anuncios, criativos, performance, lideranca, id-singular]
 
 # 📣 Anúncios — Liderança (pronto para revisão)
 
-> Copy de anúncios para o go-live (22/06), por canal. Segue [[Plano de Mídia - Liderança (ID Singular)]],
+> Copy de anúncios para o go-live (23/06), por canal. Segue [[Plano de Mídia - Liderança (ID Singular)]],
 > [[Oferta de Conversão - Liderança (ID Singular)]] e mensagem por persona do [[Brief de Campanha - Liderança (ID Singular)]].
 > Destino: [[Copy LP - Diagnóstico de Liderança (ID Singular)]]. Voz ID Singular: inspiradora, com dados.
 > 💡 **Ver também [[Copies Anteriores - Liderança (ID Singular)]]** — 5 copies fortes do time anterior

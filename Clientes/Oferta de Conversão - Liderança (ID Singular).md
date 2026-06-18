@@ -1,7 +1,7 @@
 ---
 tipo: oferta
 cliente: "[[ID Singular]]"
-lancamento: Liderança · 22/06/2026
+lancamento: Liderança · 23/06/2026
 atualizado: 2026-06-16
 tags: [oferta, conversao, lideranca, id-singular]
 ---

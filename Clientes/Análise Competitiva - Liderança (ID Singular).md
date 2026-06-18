@@ -1,7 +1,7 @@
 ---
 tipo: analise-competitiva
 cliente: "[[ID Singular]]"
-lancamento: Liderança · 22/06/2026
+lancamento: Liderança · 23/06/2026
 fonte: GTM (Leitura dos ventos) + grade de lançamentos
 atualizado: 2026-06-16
 tags: [analise-competitiva, lideranca, id-singular, geracao-de-demanda]
@@ -9,7 +9,7 @@ tags: [analise-competitiva, lideranca, id-singular, geracao-de-demanda]
 
 # 🔬 Análise Competitiva — Lançamento Liderança (ID Singular)
 
-> Mapa competitivo focado em **desenvolvimento de liderança**, para embasar a campanha de 22/06.
+> Mapa competitivo focado em **desenvolvimento de liderança**, para embasar a campanha de 23/06.
 > Base: "Leitura dos ventos" do GTM. Ver [[ICP - ID Singular]] e [[Brief de Campanha - Liderança (ID Singular)]].
 
 ## 🌬️ Contexto de mercado

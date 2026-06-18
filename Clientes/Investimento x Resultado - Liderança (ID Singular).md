@@ -1,7 +1,7 @@
 ---
 tipo: investimento-x-resultado
 cliente: "[[ID Singular]]"
-lancamento: Liderança · 22–30/06/2026
+lancamento: Liderança · 23/06–22/07/2026
 budget: R$ 9.000
 atualizado: 2026-06-17
 tags: [investimento, resultado, previsibilidade, lideranca, id-singular]

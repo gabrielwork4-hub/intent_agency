@@ -1,14 +1,14 @@
 ---
 tipo: diagnostico-plano-acao
 cliente: "[[ID Singular]]"
-lancamento: Liderança · 22–30/06/2026
+lancamento: Liderança · 23/06–22/07/2026
 atualizado: 2026-06-16
 tags: [diagnostico, plano-de-acao, lideranca, id-singular]
 ---
 
 # 🩺 Diagnóstico e Plano de Ação — Liderança (ID Singular)
 
-> Diagnóstico da situação + plano de ação até o go-live (22/06) e durante o sprint (22–30/06).
+> Diagnóstico da situação + plano de ação até o go-live (23/06) e durante o sprint (23/06–22/07).
 > Visão geral em [[Overview do Lançamento - Liderança (ID Singular)]].
 
 ---
@@ -31,7 +31,7 @@ conversão lead→SQL 11,53% · **ROI 120%** (só educação corporativa).
    mensuração emocional) que vencem a concorrência.
 4. **Funil incompleto** — MQL não estava definido.
 5. **Baixa demanda de busca** — liderança tem pouco volume no Google → não sustenta volume sozinho.
-6. **Sprint curto (9 dias) sem aquecimento** — fase de aprendizado das campanhas pesa no CPL inicial.
+6. ~~Sprint curto~~ → ✅ **resolvido:** roda **30 dias** (aprendizado amortiza + tempo de otimizar).
 
 ### 🟢 Oportunidades
 1. **Oceano azul de posicionamento** — ninguém ocupa "humanização + método + performance".
@@ -59,12 +59,12 @@ Rodar 30 dias (não sprint) reduz o risco: a fase de aprendizado amortiza e há 
 | 5 | Montar campanhas (Meta/Google/LinkedIn) com a copy | Mídia | 21/06 | 🟠 média |
 | 6 | Conferir públicos: remarketing (base de maio) + lookalike | Mídia | 21/06 | 🟠 média |
 
-### Fase 2 — Go-live e sprint (22–30/06)
+### Fase 2 — Go-live e sprint (23/06–22/07)
 | #   | Ação                                                            | Responsável | Quando             |
 | --- | --------------------------------------------------------------- | ----------- | ------------------ |
-| 7   | Subir campanhas; **priorizar remarketing/lookalike** no início  | Mídia       | 22/06              |
-| 8   | Subir primeiro os criativos de maior conversão (Anúncios 4 e 2) | Mídia       | 22/06              |
-| 9   | Monitorar CPL/leads **diariamente**; ajustar lances/criativos   | Mídia       | 22–30/06           |
+| 7   | Subir campanhas; **priorizar remarketing/lookalike** no início  | Mídia       | 23/06              |
+| 8   | Subir primeiro os criativos de maior conversão (Anúncios 4 e 2) | Mídia       | 23/06              |
+| 9   | Monitorar CPL/leads **diariamente**; ajustar lances/criativos   | Mídia       | 23/06–22/07           |
 | 10  | **Realocar verba** para o canal de melhor CPL/SQL               | Mídia       | a partir de ~25/06 |
 | 11  | Pausar anúncio com CPL > 1,5× a média; escalar o melhor         | Mídia       | contínuo           |
 
@@ -77,8 +77,8 @@ Rodar 30 dias (não sprint) reduz o risco: a fase de aprendizado amortiza e há 
 | 15  | Decidir continuidade/escala e preparar lançamento 2 (Comunicação · 06/07) | Nós           | 01/07  |
 
 ## 📊 Como saberemos que deu certo
-Meta semanal: ~13 leads · ~1,5 SQL. Acompanhamento em [[Acompanhamento - ID Singular]].
-Sucesso mínimo = bater o **conservador (~43 leads / ~5 SQLs)** com CPL bem abaixo do histórico.
+Meta semanal: ~7 leads · ~1 SQL (30 dias). Acompanhamento em [[Acompanhamento - ID Singular]].
+Sucesso = **~30 leads / ~3–4 SQLs** com CPL ~R$ 300 (bem abaixo do histórico R$ 555).
 
 ---
 🔗 Relacionado: [[Overview do Lançamento - Liderança (ID Singular)]] · [[Plano de Mídia - Liderança (ID Singular)]] · [[Estrutura de Campanha - Liderança (ID Singular)]]

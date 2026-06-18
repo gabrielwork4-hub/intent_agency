@@ -21,7 +21,7 @@ tags: [acompanhamento, resultados, id-singular, geracao-de-demanda]
   investimento R$ 28.877,60 · CPL R$ 555,34 · custo/SQL R$ 4,8 mil · conversão lead→SQL 11,53% · ROI 120%
 
 ## 🎯 Metas
-**Lançamento Liderança roda 30 dias (a partir da virada do mês · ~01–31/07).**
+**Lançamento Liderança roda 30 dias (início seg. 23/06 → ~22/07).**
 
 **Meta de trabalho (R$ 9k em 30 dias):**
 - **~30 leads · ~3–4 SQLs · CPL ~R$ 300 · custo/SQL ~R$ 2.500.**
@@ -37,20 +37,21 @@ tags: [acompanhamento, resultados, id-singular, geracao-de-demanda]
 |---|---|---|---|
 | 2026-06-16 | Estruturação da inteligência (ICP, escopo, projeto) | [[Metodologia - Briefing e Construção do ICP]] | base para outbound/conteúdo |
 | 2026-06-16 | ICP reestruturado em 3 camadas + grade de 8 lançamentos ([[Grade de Lançamentos - ID Singular & Wevia 2026]]) | — | plano de campanhas jun–nov |
-| 2026-06-16 | Lançamento 1 (Liderança): análise competitiva + brief de campanha | #1 | preparar go-live 22/06 |
+| 2026-06-16 | Lançamento 1 (Liderança): análise competitiva + brief de campanha | #1 | preparar go-live 23/06 |
 | 2026-06-16 | Oferta (Diagnóstico de Liderança) + análise da LP + metas de junho registradas | #1 | definir oferta e captura para conversão |
-| 2026-06-16 | Copy completa da LP do Diagnóstico de Liderança escrita ([[Copy LP - Diagnóstico de Liderança (ID Singular)]]) | #3 | ativo de go-live (22/06) |
+| 2026-06-16 | Copy completa da LP do Diagnóstico de Liderança escrita ([[Copy LP - Diagnóstico de Liderança (ID Singular)]]) | #3 | ativo de go-live (23/06) |
 | 2026-06-16 | Plano de mídia R$9k + previsibilidade 3 cenários ([[Plano de Mídia - Liderança (ID Singular)]]) | #7/#8 | distribuir budget e prever resultados |
 | 2026-06-16 | Copy de anúncios (Meta + Google + LinkedIn) ([[Anúncios - Liderança (ID Singular)]]) | #7/#8 | ativos de go-live performance |
 | 2026-06-16 | Estrutura operacional de campanha + definição de funil/MQL ([[Estrutura de Campanha - Liderança (ID Singular)]]) | #7/#8 | blueprint para subir as campanhas |
 | 2026-06-16 | Overview executivo + diagnóstico e plano de ação do lançamento | — | documentação para alinhamento e execução |
 | 2026-06-17 | Backlog do gestor anterior analisado ([[Backlog - Gestor de Tráfego Anterior (ID Singular)]]) | — | benchmarks reais + bloqueio de contas identificado |
-| 2026-06-17 | ✅ Contas Meta + LinkedIn regularizadas (pagas) | — | bloqueador resolvido — go-live 22/06 liberado |
+| 2026-06-17 | ✅ Contas Meta + LinkedIn regularizadas (pagas) | — | bloqueador resolvido — go-live 23/06 liberado |
 | 2026-06-17 | 5 copies do time anterior registradas + analisadas ([[Copies Anteriores - Liderança (ID Singular)]]) | #3 | eixo "treinados x transformados" como mensagem central |
 | 2026-06-17 | Plano de investimento refinado: Meta 6k / LinkedIn 2k / Google 1k ([[Plano de Investimento - Liderança (ID Singular)]]) | #7/#8 | distribuição com justificativa por canal |
 | 2026-06-17 | Investimento × resultado com números reais ([[Investimento x Resultado - Liderança (ID Singular)]]) | — | meta realista ~24 leads/~3 SQLs ancorada no histórico |
 | 2026-06-17 | Projeção 30 dias do budget ([[Projeção 30 Dias - Liderança (ID Singular)]]) | #7/#8 | 30d rende ~30 leads vs ~24 do sprint (mesma verba) |
-| 2026-06-17 | ✅ Decisão: rodar 30 dias diretos (virada do mês ~01–31/07) — plano oficial atualizado | — | datas/pacing/metas revisados em todas as notas |
+| 2026-06-18 | ✅ Decisão: início seg. 23/06, rodar 30 dias diretos (→ ~22/07) — plano oficial atualizado | — | datas/pacing/metas revisados em todas as notas |
+| 2026-06-18 | Histórico Meta 2025 analisado ([[Histórico Meta 2025 - ID Singular]]) | — | CPC ~R$0,43, tráfego barato → funil 2 passos de-risca o CPL |
 |  | *(próx: definir canais prioritários + mensagem por persona)* | — | iniciar geração de demanda |
 
 ## 📈 Resultados ao longo do tempo

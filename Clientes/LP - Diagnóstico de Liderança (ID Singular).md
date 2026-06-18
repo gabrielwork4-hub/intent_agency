@@ -1,7 +1,7 @@
 ---
 tipo: landing-page
 cliente: "[[ID Singular]]"
-lancamento: Liderança · 22/06/2026
+lancamento: Liderança · 23/06/2026
 referencia: idsingular.com.br/educacao-corporativa
 atualizado: 2026-06-16
 tags: [landing-page, lideranca, conversao, id-singular]

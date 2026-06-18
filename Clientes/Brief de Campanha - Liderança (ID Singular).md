@@ -10,7 +10,7 @@ atualizado: 2026-06-16
 tags: [brief-campanha, lideranca, id-singular, geracao-de-demanda]
 ---
 
-# 📣 Brief de Campanha — Liderança · ID Singular (22/06/2026)
+# 📣 Brief de Campanha — Liderança · ID Singular (23/06/2026)
 
 > Brief de necessidades e direcionamentos para o sucesso da 1ª campanha da grade.
 > Estratégia: **fundo de funil** (aquisição/conversão). Base: [[ICP - ID Singular]] (3 camadas),
@@ -78,7 +78,7 @@ vem de geração de demanda (Meta/LinkedIn), Google captura alta intenção.
 > Lançamento Liderança entra na **4ª semana de junho (22–30)**.
 
 ## 🗓️ Cronograma
-- **Go-live:** 22/06/2026
+- **Go-live:** 23/06/2026
 - [ ] Pré-lançamento: LP + automação + criativos + segmentações prontos
 - [ ] Definir oferta de conversão e metas
 - [ ] Configurar rastreamento (formulário/WhatsApp + GA4)

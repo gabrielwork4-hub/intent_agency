@@ -9,7 +9,7 @@ tags: [projecao, budget, investimento, lideranca, id-singular]
 
 # 📅 Projeção 30 Dias — Liderança (R$ 9.000)
 
-> ✅ **PLANO OFICIAL** — decisão: campanha roda **30 dias diretos** (a partir da virada do mês · ~01–31/07).
+> ✅ **PLANO OFICIAL** — decisão: campanha roda **30 dias diretos** (início seg. **23/06** → ~22/07).
 > Ancorado nos números reais do RAG (CPL histórico R$ 555, conversões reais).
 
 ## 🧠 Por que 30 dias rende MAIS que o sprint (mesmo dinheiro)

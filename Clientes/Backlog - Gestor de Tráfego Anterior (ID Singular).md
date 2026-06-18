@@ -16,7 +16,7 @@ tags: [backlog, trafego, historico, id-singular]
   limite diário Meta R$ 1.325,44; Visa final 3995.)
 - **LinkedIn Ads — ✅ regularizada.** (estava restrita; conta 515289141; saldo R$ 778,20; Visa 9993;
   CNPJ 15.403.894/0001-38.)
-> ✅ **Bloqueador resolvido** — contas aptas a veicular. Go-live de 22/06 liberado nesses canais.
+> ✅ **Bloqueador resolvido** — contas aptas a veicular. Go-live de 23/06 liberado nesses canais.
 
 ## 📊 Estrutura da campanha anterior (Meta) — o que existia
 - **Campanha:** `educacaocorporativa_novo` / "[EDUCAÇÃO CORPORATIVA] C1 - Geração de Leads" · status "Em análise"

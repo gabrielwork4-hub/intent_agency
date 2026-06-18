@@ -1,7 +1,7 @@
 ---
 tipo: plano-investimento
 cliente: "[[ID Singular]]"
-lancamento: Liderança · 22–30/06/2026
+lancamento: Liderança · 23/06–22/07/2026
 budget: R$ 9.000 (sprint 9 dias)
 atualizado: 2026-06-17
 tags: [investimento, budget, performance, lideranca, id-singular]
@@ -12,7 +12,7 @@ tags: [investimento, budget, performance, lideranca, id-singular]
 > Distribuição do budget **com o porquê de cada decisão**. Refina [[Plano de Mídia - Liderança (ID Singular)]]
 > à luz dos dados do [[Backlog - Gestor de Tráfego Anterior (ID Singular)]].
 >
-> ⚠️ **ATUALIZADO:** campanha roda **30 dias diretos** (a partir da virada do mês · ~01–31/07), não
+> ⚠️ **ATUALIZADO:** campanha roda **30 dias diretos** (início seg. 23/06 → ~22/07), não
 > mais sprint. Split e pacing vigentes em [[Projeção 30 Dias - Liderança (ID Singular)]]
 > (Meta R$ 6.500 · LinkedIn R$ 1.500 · Google R$ 1.000). A **lógica de cada decisão abaixo segue válida.**
 
@@ -26,13 +26,13 @@ tags: [investimento, budget, performance, lideranca, id-singular]
 ## 📊 Distribuição recomendada
 | Canal | Verba | % | Papel |
 |---|---|---|---|
-| **Meta Ads** | R$ 6.000 | 67% | Motor de volume (proven + público quente) |
-| **LinkedIn Ads** | R$ 2.000 | 22% | Qualidade (segmentação por cargo) |
+| **Meta Ads** | R$ 6.500 | 72% | Motor de volume (proven + público quente) |
+| **LinkedIn Ads** | R$ 1.500 | 17% | Qualidade (segmentação por cargo) |
 | **Google Search** | R$ 1.000 | 11% | Alta intenção (volume limitado) |
 
 ## 🔍 Os porquês (decisão por decisão)
 
-### Por que Meta leva a maior fatia (R$ 6.000 / 67%)
+### Por que Meta leva a maior fatia (R$ 6.500 / 72%)
 - **Canal comprovado:** o gestor anterior rodou Meta e gerou leads **de nível decisor** (Diretor,
   Cooperativa, Corp) — não é aposta, é o que já funciona.
 - **Público quente disponível:** a **base de maio (+1.000)** + visitantes alimentam remarketing e
@@ -42,7 +42,7 @@ tags: [investimento, budget, performance, lideranca, id-singular]
   - **Remarketing + Lookalike: R$ 3.500** → quente, converte primeiro (absorve a fase de aprendizado).
   - **Prospecção fria (interesse/cargo RH + Leadership development): R$ 2.500** → volume incremental.
 
-### Por que LinkedIn vem em 2º (R$ 2.000 / 22%)
+### Por que LinkedIn vem em 2º (R$ 1.500 / 17%)
 - **Único canal que segmenta por cargo exato** (CHRO, Dir./Ger. de RH, DHO, T&D) → leads **mais
   próximos do SQL** (qualidade > volume).
 - **CPL alto compensado pela qualidade** — poucos leads, mas muito qualificados (melhora a taxa lead→SQL).
@@ -60,8 +60,8 @@ tags: [investimento, budget, performance, lideranca, id-singular]
 ## 🔮 Previsibilidade por canal (sprint)
 | Canal | Verba | CPL est. | Leads est. | Qualidade |
 |---|---|---|---|---|
-| Meta | R$ 6.000 | ~R$ 165 | ~36 | média (volume) |
-| LinkedIn | R$ 2.000 | ~R$ 450 | ~4–5 | altíssima (cargo) |
+| Meta | R$ 6.500 | ~R$ 165 | ~36 | média (volume) |
+| LinkedIn | R$ 1.500 | ~R$ 450 | ~4–5 | altíssima (cargo) |
 | Google | R$ 1.000 | ~R$ 280 | ~3–4 | alta (intenção) |
 | **Total** | **R$ 9.000** | **~R$ 200** | **~43–45** | blended |
 → ~5–6 SQLs (LinkedIn e Google puxam a taxa de qualificação para cima).

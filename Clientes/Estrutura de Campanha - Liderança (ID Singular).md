@@ -1,7 +1,7 @@
 ---
 tipo: estrutura-campanha
 cliente: "[[ID Singular]]"
-lancamento: Liderança · 22/06/2026
+lancamento: Liderança · 23/06/2026
 budget: R$ 9.000
 atualizado: 2026-06-16
 tags: [estrutura-campanha, performance, lideranca, id-singular]
@@ -13,7 +13,7 @@ tags: [estrutura-campanha, performance, lideranca, id-singular]
 > (verba) e [[Anúncios - Liderança (ID Singular)]] (copy). Destino: [[Copy LP - Diagnóstico de Liderança (ID Singular)]].
 
 ## ⏱️ Janela e pacing do budget
-- **Rodando 30 dias diretos** (a partir da virada do mês · ~01–31/07). R$ 9.000 → **~R$ 300/dia**.
+- **Rodando 30 dias diretos** (início seg. 23/06 → ~22/07). R$ 9.000 → **~R$ 300/dia**.
 - Split por canal: **Meta R$ 6.500 · LinkedIn R$ 1.500 · Google R$ 1.000** (ajustado p/ 30 dias —
   ver [[Projeção 30 Dias - Liderança (ID Singular)]]).
 - **Pacing fasado:** aquecimento (dias 1–7, ~R$ 1.800) → otimização (8–21, ~R$ 4.200) →
@@ -61,7 +61,7 @@ Ex.: `IDS_Lideranca_Meta_Leads_Lookalike_jun26`
 - **Lead:** preencheu o formulário da LP.
 - **MQL:** lead dentro do ICP (cargo de gestão/RH + porte ≥ alvo) — *qualificado pelos campos do form*.
 - **SQL:** MQL que agendou/realizou o diagnóstico (intenção real).
-- Meta: 52 leads → ~6 SQLs (manter conversão ≥ 11,53%).
+- Meta de trabalho: **~30 leads → ~3–4 SQLs** (teto otimista 52/6). Manter conversão ≥ 11,53%.
 
 ## 📈 Rastreamento (pré-requisito)
 - **Pixel Meta** + **Tag Google** + **GA4** com evento de conversão no envio do formulário.
@@ -71,7 +71,7 @@ Ex.: `IDS_Lideranca_Meta_Leads_Lookalike_jun26`
 ## 🔧 Regras de otimização (semanal)
 - Realocar verba para o canal/conjunto de **menor CPL com SQL** após 7–10 dias.
 - Pausar anúncio com CPL > 1,5× a média; escalar o de melhor desempenho.
-- Acompanhar em [[Acompanhamento - ID Singular]] (meta semanal: ~13 leads / ~1,5 SQL).
+- Acompanhar em [[Acompanhamento - ID Singular]] (meta semanal: ~7 leads / ~1 SQL).
 
 ## ✅ Checklist de go-live (responsável)
 - [ ] LP publicada com formulário + GA4 + pixel *(time/cliente)*

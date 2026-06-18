@@ -15,12 +15,12 @@ tags: [campanhas, lancamentos, geracao-de-demanda, id-singular, wevia]
 > Conecta com [[ICP - ID Singular]] (comitê de compra) e [[Projeto - Geração de Demanda ID Singular]].
 
 ## 🗓️ Visão geral (calendário)
-> ⚠️ **Liderança agora roda 30 dias diretos (~01–31/07)**, não mais 22/06. Isso **sobrepõe** os
-> lançamentos de julho abaixo (Comunicação 06/07, Magnus 27/07) — **calendário a revisar** (ver nota no fim).
+> ⚠️ **Liderança roda 30 dias diretos (início seg. 23/06 → ~22/07)**. Isso **sobrepõe** o
+> lançamento de Comunicação (06/07) e quase encosta no Magnus (27/07) — **calendário a revisar** (ver nota no fim).
 
 | Data | Tema | Marca | Estratégia |
 |---|---|---|---|
-| **~01–31/07 (30 dias)** | **Liderança** | ID Singular | Fundo de funil (aquisição/conversão) |
+| **23/06–22/07 (30 dias)** | **Liderança** | ID Singular | Fundo de funil (aquisição/conversão) |
 | 06/07 ⚠️ | Comunicação & Media Training | ID Singular | Fundo de funil |
 | 27/07 | Magnus (assessment) | Wevia | Isca: teste grátis + automação → conversão |
 | 17/08 | Carreira, Sucessão & Potencial | ID Singular | Fundo de funil |
@@ -49,7 +49,7 @@ Com Liderança ocupando julho inteiro, é preciso decidir:
 
 ## 📋 Lançamentos em detalhe
 
-### 1. Liderança · 22/06 · ID Singular · fundo de funil
+### 1. Liderança · 23/06 · ID Singular · fundo de funil
 - 📋 **Overview:** [[Overview do Lançamento - Liderança (ID Singular)]]
 - 📄 **Materiais:** [[Análise Competitiva - Liderança (ID Singular)]] · [[Brief de Campanha - Liderança (ID Singular)]] · [[Plano de Mídia - Liderança (ID Singular)]] · [[Estrutura de Campanha - Liderança (ID Singular)]] · [[Oferta de Conversão - Liderança (ID Singular)]] · [[Copy LP - Diagnóstico de Liderança (ID Singular)]] · [[Anúncios - Liderança (ID Singular)]]
 - **Programas:** Desenvolvimento de Líderes, Liderança Transformadora/Feminina/Ágil/em Tempos de IA,

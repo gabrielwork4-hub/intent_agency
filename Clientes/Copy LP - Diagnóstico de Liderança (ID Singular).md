@@ -1,7 +1,7 @@
 ---
 tipo: copy-landing-page
 cliente: "[[ID Singular]]"
-lancamento: Liderança · 22/06/2026
+lancamento: Liderança · 23/06/2026
 status: em revisão
 atualizado: 2026-06-16
 tags: [copy, landing-page, lideranca, id-singular]
