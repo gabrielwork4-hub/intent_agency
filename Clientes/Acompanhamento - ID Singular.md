@@ -53,6 +53,8 @@ tags: [acompanhamento, resultados, id-singular, geracao-de-demanda]
 | 2026-06-18 | ✅ Decisão: início seg. 23/06, rodar 30 dias diretos (→ ~22/07) — plano oficial atualizado | — | datas/pacing/metas revisados em todas as notas |
 | 2026-06-18 | Histórico Meta 2025 analisado ([[Histórico Meta 2025 - ID Singular]]) | — | CPC ~R$0,43, tráfego barato → funil 2 passos de-risca o CPL |
 | 2026-06-18 | 5 ativos do time salvos no cofre: Quiz/Diagnóstico, fluxo de 8 e-mails, redes sociais, e-mail, criativos | — | oferta real = quiz interativo; centralização do banco vetorial |
+| 2026-06-21 | ✅ Decisão de calendário: verba fixa R$9k/mês → lançamentos sequenciais (sem paralelismo); [[Grade de Lançamentos - ID Singular & Wevia 2026]] recalculada em cascata | — | Comunicação empurra para 23/07–21/08 |
+| 2026-06-21 | 6 pautas de blog do time validadas via Ahrefs ([[Pautas Blog - Liderança (ID Singular)]]) — 5 seguem, 1 redirecionada p/ social | [[Metodologia - Estudo de Palavras-chave e Clusterização]] | pauta "microgerenciamento" (2.100 vol/KD0) como prioridade de produção |
 |  | *(próx: definir canais prioritários + mensagem por persona)* | — | iniciar geração de demanda |
 
 ## 📈 Resultados ao longo do tempo
