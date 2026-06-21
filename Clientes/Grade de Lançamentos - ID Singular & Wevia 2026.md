@@ -15,25 +15,29 @@ tags: [campanhas, lancamentos, geracao-de-demanda, id-singular, wevia]
 > Conecta com [[ICP - ID Singular]] (comitê de compra) e [[Projeto - Geração de Demanda ID Singular]].
 
 ## 🗓️ Visão geral (calendário)
-> ⚠️ **Liderança roda 30 dias diretos (início seg. 23/06 → ~22/07)**. Isso **sobrepõe** o
-> lançamento de Comunicação (06/07) e quase encosta no Magnus (27/07) — **calendário a revisar** (ver nota no fim).
+> ✅ **Decisão confirmada (2026-06-21):** a verba é **R$ 9k/mês** (fixa, sem aporte adicional) →
+> **um lançamento principal por mês**, sequencial, sem paralelismo. Liderança ocupa jun–jul
+> (23/06→22/07) → **Comunicação empurra para depois de 22/07** → datas abaixo recalculadas em cascata.
 
-| Data | Tema | Marca | Estratégia |
+| Data (revisada) | Tema | Marca | Estratégia |
 |---|---|---|---|
-| **23/06–22/07 (30 dias)** | **Liderança** | ID Singular | Fundo de funil (aquisição/conversão) |
-| 06/07 ⚠️ | Comunicação & Media Training | ID Singular | Fundo de funil |
-| 27/07 | Magnus (assessment) | Wevia | Isca: teste grátis + automação → conversão |
-| 17/08 | Carreira, Sucessão & Potencial | ID Singular | Fundo de funil |
-| 07/09 | Saúde Organizacional & Bem-Estar | ID Singular | Fundo de funil |
-| 28/09 | Animus (saúde mental/NR-1) | Wevia | Isca com automação |
-| 19/10 | Asset (diagnóstico de cultura) | Wevia + ID Singular | Isca com automação |
-| 16/11 | Plataforma Wevia | Wevia | Isca com automação |
+| 23/06–22/07 (30 dias) | **Liderança** | ID Singular | Fundo de funil (aquisição/conversão) |
+| **23/07–21/08** | **Comunicação & Media Training** | ID Singular | Fundo de funil — *(empurrado de 06/07)* |
+| **22/08–20/09** | Magnus (assessment) | Wevia | Isca: teste grátis + automação → conversão — *(empurrado de 27/07)* |
+| **21/09–20/10** | Carreira, Sucessão & Potencial | ID Singular | Fundo de funil — *(empurrado de 17/08)* |
+| **21/10–19/11** | Saúde Organizacional & Bem-Estar | ID Singular | Fundo de funil — *(empurrado de 07/09)* |
+| a recalcular | Animus (saúde mental/NR-1) | Wevia | Isca com automação |
+| a recalcular | Asset (diagnóstico de cultura) | Wevia + ID Singular | Isca com automação |
+| a recalcular | Plataforma Wevia | Wevia | Isca com automação |
 
-## ⚠️ Calendário a revisar (impacto da decisão de 30 dias)
-Com Liderança ocupando julho inteiro, é preciso decidir:
-- Os demais lançamentos de julho (Comunicação 06/07, Magnus 27/07) **empurram** para frente?
-- Ou rodam **em paralelo** (exige verba adicional — R$ 9k é só de Liderança)?
-- Recomendação: **um lançamento principal por mês** quando a verba é R$ 9k; senão dilui. Decidir com o cliente.
+## ✅ Calendário revisado (cascata por verba fixa de R$9k/mês)
+- Cada lançamento agora ocupa **~30 dias corridos** (1 ciclo de mídia completo), igual ao modelo
+  de Liderança — não mais datas-pontuais isoladas.
+- A cascata empurrou Animus/Asset/Plataforma Wevia para **fora da janela de timing forte original**
+  (Animus era set–nov, Asset ago–nov, Plataforma out–nov) — **a revalidar com o cliente** se a janela
+  de mercado ainda se sustenta nas novas datas, ou se algum lançamento deve ser pulado/encurtado.
+- Pendência aberta: confirmar se a cascata segue literal (sempre 30 dias, sequencial) ou se o cliente
+  quer voltar a comprimir alguns lançamentos quando a urgência de mercado for maior que a de orçamento.
 
 ## 🧭 Lógica estratégica
 - **Concentração no 2º semestre:** é quando grandes empresas e o setor público desenham planos de
