@@ -25,6 +25,8 @@ tags: [blog, conteudo, seo, lideranca, id-singular]
 | 04 | O falso positivo do desenvolvimento | **avaliação de liderança** | 60 | 0 | ✅ Retitular |
 | 05 | O custo invisível do silêncio | *(sem termo de busca direto)* | 0 | — | 🔴 Mover para social, não blog |
 | 06 | A liderança não aparece na calmaria / 4 zonas | **microgerenciamento** | **2.100** | **0** | 🚀 Retitular — pauta-âncora |
+| 07 | *(nova — gap de cluster)* | **liderança feminina** | **1.300** | 2 | ✅ Adicionar — fecha lacuna de posicionamento |
+| 08 | *(nova — gap de cluster)* | **liderança humanizada** | 450 | 0 | ✅ Adicionar — é a tese central da marca, zero concorrência |
 
 ---
 
@@ -134,13 +136,53 @@ tags: [blog, conteudo, seo, lideranca, id-singular]
 - **Público-alvo:** Diretores, CEOs, CHROs, Gestores de T&D (todas as personas do [[ICP - ID Singular]])
 - **Status:** a fazer — **prioridade de produção** (maior potencial de tráfego do lote)
 
+## Pauta 07 — Liderança feminina: o que muda na prática, não só no discurso
+- **Pilar:** Posicionamento/Diferencial de marca *(gap identificado — não veio do time, fecha o cluster)*
+- **Palavra-chave principal:** `liderança feminina` (vol. **1.300/mês** · KD **2** — maior volume do lote junto com microgerenciamento)
+- **Palavras-chave secundárias:** liderança feminina características, mulheres na liderança
+- **Título (≤65 car.):** "Liderança Feminina: o que Muda na Prática, Não Só no Discurso"
+- **Meta description (≤165 car.):** "Liderança feminina não é só pauta de representatividade. Veja o que muda na prática quando a empresa desenvolve esse repertório com método."
+- **Estrutura (H1>H2>H3):**
+  - H1: Liderança Feminina: o que Muda na Prática, Não Só no Discurso
+  - H2: O que é liderança feminina além da representatividade
+  - H2: Diferenças de repertório comportamental que os dados mostram
+    - H3: Colaboração, escuta ativa e gestão de conflito — não é estereótipo
+  - H2: O risco de tratar como pauta de RH em vez de desenvolvimento
+  - H2: Como desenvolver liderança feminina com método (não só mentoria pontual)
+  - H2: Conclusão + diagnóstico
+- **CTA:** "Sua liderança feminina tem o suporte certo para crescer? Descubra o estágio da sua liderança com o Diagnóstico ID Singular." → `/diagnostico-lideranca`
+- **Público-alvo:** RH/DHO, comitês de diversidade, CHRO (camada 2 do [[ICP - ID Singular]])
+- **Status:** a fazer
+
+## Pauta 08 — Liderança humanizada: o que é na prática (não é ser "bonzinho")
+- **Pilar:** Posicionamento/Diferencial de marca *(gap identificado — é a tese central da ID Singular)*
+- **Palavra-chave principal:** `liderança humanizada` (vol. 450/mês · KD **0** — zero concorrência no termo que define o posicionamento da marca)
+- **Palavras-chave secundárias:** o que é liderança humanizada, gestão humanizada
+- **Título (≤65 car.):** "Liderança Humanizada: o que é na Prática (Não é Ser 'Bonzinho')"
+- **Meta description (≤165 car.):** "Liderança humanizada não é abrir mão de resultado. Entenda o que muda na prática quando o método substitui a improvisação."
+- **Estrutura (H1>H2>H3):**
+  - H1: Liderança Humanizada: o que é na Prática (Não é Ser "Bonzinho")
+  - H2: O que é liderança humanizada (e o que não é)
+    - H3: Não é ausência de cobrança ou de meta
+  - H2: Por que humanização sem método não sustenta resultado
+  - H2: Liderança humanizada como vantagem competitiva (engajamento, retenção, performance)
+  - H2: Como saber se sua liderança é humanizada ou só parece ser
+  - H2: Conclusão + diagnóstico
+- **CTA:** "Sua liderança junta humanização e método, ou só um dos dois? Descubra com o Diagnóstico de Liderança da ID Singular." → `/diagnostico-lideranca`
+- **Público-alvo:** Diretores, CEOs, CHRO (camada 2 do [[ICP - ID Singular]]) — conteúdo-pilar do posicionamento "oceano azul" ([[Análise Competitiva - Liderança (ID Singular)]])
+- **Status:** a fazer — candidata a **pillar page** (sustenta o link interno das demais pautas)
+
 ---
 
 ## ✅ Resumo para o time de conteúdo
-- **5 pautas seguem para produção** (01, 02, 03, 04, 06) — todas com keyword principal validada e
-  estrutura H1>H2>H3 definida, CTA único (Diagnóstico de Liderança).
+- **7 pautas seguem para produção** (01, 02, 03, 04, 06, 07, 08) — todas com keyword principal
+  validada e estrutura H1>H2>H3 definida, CTA único (Diagnóstico de Liderança).
 - **1 pauta (05) foi redirecionada** para conteúdo social — sem demanda de busca suficiente para blog.
-- **Pauta 06 é a prioridade** — maior volume (2.100/mês) e menor dificuldade (KD 0) do lote.
+- **07 e 08 são adições nossas** (não vieram do time) — fecham o gap de cluster: as 6 pautas originais
+  cobriam compliance (NR-1/PGR) e eficiência de T&D, mas não cobriam o posicionamento de marca
+  (humanização) nem o maior volume do lote (liderança feminina, 1.300/mês).
+- **Ordem de prioridade sugerida:** 06 (microgerenciamento, maior volume+menor KD) → 08 (liderança
+  humanizada, pillar page do posicionamento) → 07 (liderança feminina) → 01/02 (compliance) → 03/04 (T&D).
 - Padrão obrigatório: título ≤65 caracteres, meta description ≤165 caracteres, hierarquia de headings
   completa (H1>H2>H3) para leitura de motores de busca e LLMs.
 
