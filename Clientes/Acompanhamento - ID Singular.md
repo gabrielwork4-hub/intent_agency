@@ -56,6 +56,7 @@ tags: [acompanhamento, resultados, id-singular, geracao-de-demanda]
 | 2026-06-21 | ✅ Decisão de calendário: verba fixa R$9k/mês → lançamentos sequenciais (sem paralelismo); [[Grade de Lançamentos - ID Singular & Wevia 2026]] recalculada em cascata | — | Comunicação empurra para 23/07–21/08 |
 | 2026-06-21 | 6 pautas de blog do time validadas via Ahrefs ([[Pautas Blog - Liderança (ID Singular)]]) — 5 seguem, 1 redirecionada p/ social | [[Metodologia - Estudo de Palavras-chave e Clusterização]] | pauta "microgerenciamento" (2.100 vol/KD0) como prioridade de produção |
 | 2026-06-21 | Gap de cluster identificado e fechado: +2 pautas (liderança feminina 1.300 vol/KD2, liderança humanizada 450 vol/KD0) | [[Metodologia - Estudo de Palavras-chave e Clusterização]] | 7 pautas totais cobrem compliance + T&D + posicionamento de marca |
+| 2026-06-21 | Justificativa técnica das 7 pautas documentada ([[Justificativa - Pautas Blog Liderança (ID Singular)]]) | [[Metodologia - Estudo de Palavras-chave e Clusterização]] | ~4.860 buscas/mês combinadas; alcance e critérios de decisão registrados para o time |
 |  | *(próx: definir canais prioritários + mensagem por persona)* | — | iniciar geração de demanda |
 
 ## 📈 Resultados ao longo do tempo
