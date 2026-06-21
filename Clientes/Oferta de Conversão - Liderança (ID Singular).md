@@ -8,6 +8,10 @@ tags: [oferta, conversao, lideranca, id-singular]
 
 # 🎁 Oferta de Conversão — Liderança (ID Singular)
 
+> ✅ **Implementação real:** o time da ID já desenvolveu esta oferta como um **quiz interativo** —
+> ver [[Quiz - Diagnóstico de Liderança (ID Singular)]] (URL /diagnostico-lideranca). Esta nota é a
+> estratégia; o quiz é a execução.
+>
 > Oferta de entrada da campanha de Liderança ([[Brief de Campanha - Liderança (ID Singular)]]).
 > Objetivo: gerar lead qualificado e convertê-lo em conversa/proposta, com baixo atrito e alto valor
 > percebido — mostrando o diferencial da ID (método + mensuração + humanização).
