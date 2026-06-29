@@ -15,13 +15,16 @@ tags: [campanhas, lancamentos, geracao-de-demanda, id-singular, wevia]
 > Conecta com [[ICP - ID Singular]] (comitê de compra) e [[Projeto - Geração de Demanda ID Singular]].
 
 ## 🗓️ Visão geral (calendário)
-> ✅ **Decisão confirmada (2026-06-21):** a verba é **R$ 9k/mês** (fixa, sem aporte adicional) →
-> **um lançamento principal por mês**, sequencial, sem paralelismo. Liderança ocupa jun–jul
-> (23/06→22/07) → **Comunicação empurra para depois de 22/07** → datas abaixo recalculadas em cascata.
+> ⚠️ **Decisão revista (2026-06-29):** a verba continua **R$ 9k/mês fixa**, mas a partir de julho
+> **volta a ser dividida entre múltiplas frentes em paralelo** (não mais 1 lançamento por mês). Em
+> julho: **Liderança (continuidade) + Comunicação & Media Training + Educação Financeira**, dividindo
+> R$9k entre os 3 canais pagos (Meta Ads, Google Ads, LinkedIn Ads) por frente. Substitui a decisão
+> sequencial de 21/06.
 
 | Data (revisada) | Tema | Marca | Estratégia |
 |---|---|---|---|
 | 23/06–22/07 (30 dias) | **Liderança** | ID Singular | Fundo de funil (aquisição/conversão) |
+| **a partir de jul/2026** | **Educação Financeira** | ID Singular | Frente nova (não estava na grade original) — *(indicadores anteriores a levantar)* |
 | **23/07–21/08** | **Comunicação & Media Training** | ID Singular | Fundo de funil — *(empurrado de 06/07)* |
 | **22/08–20/09** | Magnus (assessment) | Wevia | Isca: teste grátis + automação → conversão — *(empurrado de 27/07)* |
 | **21/09–20/10** | Carreira, Sucessão & Potencial | ID Singular | Fundo de funil — *(empurrado de 17/08)* |
@@ -29,6 +32,14 @@ tags: [campanhas, lancamentos, geracao-de-demanda, id-singular, wevia]
 | a recalcular | Animus (saúde mental/NR-1) | Wevia | Isca com automação |
 | a recalcular | Asset (diagnóstico de cultura) | Wevia + ID Singular | Isca com automação |
 | a recalcular | Plataforma Wevia | Wevia | Isca com automação |
+
+### 9. Educação Financeira · jul/2026 · ID Singular · frente nova
+- **Status:** já teve conteúdo postado anteriormente (indicadores a levantar com o cliente).
+- **Não estava na Grade original de 8 lançamentos** — entra agora como frente paralela em julho,
+  junto com Liderança (continuidade) e Comunicação & Media Training.
+- Pode se conectar ao subtema "saúde financeira" já mapeado dentro de [[#5. Saúde Organizacional & Bem-Estar]]
+  (citado lá como forte em out–nov, 13º salário) — **a confirmar se é a mesma frente adiantada ou um
+  pilar de conteúdo próprio e contínuo.**
 
 ## ✅ Calendário revisado (cascata por verba fixa de R$9k/mês)
 - Cada lançamento agora ocupa **~30 dias corridos** (1 ciclo de mídia completo), igual ao modelo
