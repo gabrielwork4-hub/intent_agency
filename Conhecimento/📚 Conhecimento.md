@@ -31,6 +31,7 @@ Construindo fio a fio. Status: ⬜ a fazer · 🔄 em construção · ✅ pronta
 ### Geração de demanda (mídia paga)
 7. ✅ [[Metodologia - Geração de Demanda - Google Ads]]
 8. ✅ [[Metodologia - Geração de Demanda - Meta Ads]]
+9. ✅ [[Metodologia - Estruturação e Otimização de Tráfego Pago]] — especialista de tráfego pago: auditoria de tracking, divisão de budget, otimização
 
 ## 🧠 Aprendizados (ciclo de validação)
 - [[Aprendizados Validados]] — o que validamos nas execuções; realimenta as metodologias
