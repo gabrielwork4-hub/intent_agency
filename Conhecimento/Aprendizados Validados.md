@@ -60,7 +60,7 @@ tags: [aprendizados, conhecimento, validacao]
 - **Ação:** auditoria de tracking (teste de envio real, não só inspeção visual do código) passa a
   ser **passo obrigatório antes de validar qualquer dado de CPL ou budget**.
 
-### [2026-06] CPL blended pode escond24 um canal eficiente atrás de um canal ruim
+### [2026-06] CPL blended pode esconder um canal eficiente atrás de um canal ruim
 - **Evidência:** ID Singular — CPL blended (Meta+Google+LinkedIn) de Educação Corporativa era
   R$555,34; isolando só Meta, o CPL real era R$233,85 (menos da metade).
 - **Metodologia impactada:** [[Metodologia - Estruturação e Otimização de Tráfego Pago]].
