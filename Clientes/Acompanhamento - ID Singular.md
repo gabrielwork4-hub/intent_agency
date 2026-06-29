@@ -18,7 +18,10 @@ tags: [acompanhamento, resultados, id-singular, geracao-de-demanda]
 - **Site:** idsingular.com.br · Instagram @idsingular
 - **Inteligência mapeada:** [[ICP - ID Singular]] + [[Escopo - ID Singular]] (Metodologia Singular®, 6 etapas)
 - **Histórico Educação Corporativa (fev–mai/2026):** 52 leads · 6 SQLs · 1 fechamento ·
-  investimento R$ 28.877,60 · CPL R$ 555,34 · custo/SQL R$ 4,8 mil · conversão lead→SQL 11,53% · ROI 120%
+  investimento R$ 28.877,60 · CPL R$ 555,34 *(blended Meta+Google+LinkedIn)* · custo/SQL R$ 4,8 mil ·
+  conversão lead→SQL 11,53% · ROI 120%
+- **Detalhe só-Meta (jan–jun/2026):** 57 leads · R$ 13.329,22 · **CPL R$ 233,85** — Meta isolado é
+  bem mais eficiente que o blended (ver [[Histórico Meta 2026 - Educação Corporativa (ID Singular)]]).
 
 ## 🎯 Metas
 **Lançamento Liderança roda 30 dias (início seg. 23/06 → ~22/07).**
@@ -62,7 +65,8 @@ tags: [acompanhamento, resultados, id-singular, geracao-de-demanda]
 | 2026-06-21 | 🔴 Escopo do problema ampliado: confirmado que metade dos criativos aponta para `/lideranca` (formulário de 11 etapas, notifica comercial) — mesma falha de Meta Pixel confirmada nesse segundo funil também | — | 100% do orçamento de Meta Ads roda sem sinal de conversão, não só no quiz |
 | 2026-06-29 | ✅ **RESOLVIDO** — corrigidos acionadores no GTM (`GTM-NS38H4VJ`, Versão 4): trocado `Click ID` (inexistente nos novos formulários) por `Click Text`; 2 acionadores novos ligados às 3 tags (Google/LinkedIn/Meta). Confirmado disparo via debug nativo do GTM | [[Diagnóstico e Plano de Ação - Liderança (ID Singular)]] | Os 3 canais voltam a registrar Lead nos 2 funis (quiz + /lideranca) |
 | 2026-06-29 | ✅ 2ª causa raiz: conjuntos de anúncios otimizavam por Conversão Personalizada quebrada ("Iniciar Diagnóstico" — regra de URL impossível de bater). Criada conversão nova "Lead - Diagnóstico Liderança" (evento Lead real) + conjuntos duplicados apontando pra ela | [[Diagnóstico e Plano de Ação - Liderança (ID Singular)]] | algoritmo passa a otimizar por conversão real, não só clique |
-|  | *(próx: pausar conjuntos antigos quebrados; excluir leads de teste do Wevia; avisar comercial sobre contato de teste em /lideranca; acompanhar CPL real nos próximos dias)* | — | validar leitura de CPL real nos dois funis |
+| 2026-06-29 | Histórico Meta de Educação Corporativa analisado (jan-jun/2026, 6 conjuntos de anúncios) — [[Histórico Meta 2026 - Educação Corporativa (ID Singular)]] | — | CPL Meta isolado R$233,85 vs. R$555,34 blended — Meta é o canal mais eficiente |
+|  | *(próx: pausar conjuntos antigos quebrados; excluir leads de teste do Wevia; avisar comercial sobre contato de teste em /lideranca; aguardar indicadores de Educação Financeira para fechar split de julho)* | — | validar leitura de CPL real + montar planejamento jul/2026 |
 
 ## 📈 Resultados ao longo do tempo
 | Mês | Leads qualificados | Reuniões | Propostas | Fechamentos |
