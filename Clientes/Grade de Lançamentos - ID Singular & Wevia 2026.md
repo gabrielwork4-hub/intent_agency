@@ -15,33 +15,38 @@ tags: [campanhas, lancamentos, geracao-de-demanda, id-singular, wevia]
 > Conecta com [[ICP - ID Singular]] (comitê de compra) e [[Projeto - Geração de Demanda ID Singular]].
 
 ## 🗓️ Visão geral (calendário)
-> ⚠️ **Decisão revista (2026-06-29):** a verba continua **R$ 9k/mês fixa**, mas a partir de julho
-> **volta a ser dividida entre múltiplas frentes em paralelo** (não mais 1 lançamento por mês). Em
-> julho: **Liderança (continuidade) + Educação Corporativa (reativação)**, dividindo R$9k entre os
-> 3 canais pagos (Meta Ads, Google Ads, LinkedIn Ads) por frente. Substitui a decisão sequencial de
-> 21/06. *(Educação Financeira avaliada e descartada — não é uma frente existente.)*
-> Comunicação & Media Training segue sem material pronto — entra quando a produção estiver feita.
+> ✅ **Decisão revista (2026-06-29):** **voltamos às datas originais** dos 8 lançamentos (revertendo a
+> casca de 30 dias sequenciais decidida em 21/06). A partir de agora, **Liderança e Educação
+> Corporativa rodam em paralelo, de forma contínua**, por cima do calendário de lançamentos pontuais —
+> dividindo os R$9k/mês entre a(s) frente(s) contínua(s) + o lançamento do mês. *(Educação Financeira
+> avaliada e descartada — não é uma frente existente.)*
 
-| Data (revisada) | Tema | Marca | Estratégia |
+| Data (original) | Tema | Marca | Estratégia |
 |---|---|---|---|
-| 23/06–22/07 (30 dias) | **Liderança** | ID Singular | Fundo de funil (aquisição/conversão) |
-| **jul/2026 (paralelo)** | **Educação Corporativa** | ID Singular | Reativação — melhor CPL histórico (R$104-250 Meta) — ver [[Histórico Meta 2026 - Educação Corporativa (ID Singular)]] |
-| **a definir** | Comunicação & Media Training | ID Singular | Fundo de funil — aguardando produção de material (brief/LP/copy/anúncios) |
-| **22/08–20/09** | Magnus (assessment) | Wevia | Isca: teste grátis + automação → conversão — *(empurrado de 27/07)* |
-| **21/09–20/10** | Carreira, Sucessão & Potencial | ID Singular | Fundo de funil — *(empurrado de 17/08)* |
-| **21/10–19/11** | Saúde Organizacional & Bem-Estar | ID Singular | Fundo de funil — *(empurrado de 07/09)* |
-| a recalcular | Animus (saúde mental/NR-1) | Wevia | Isca com automação |
-| a recalcular | Asset (diagnóstico de cultura) | Wevia + ID Singular | Isca com automação |
-| a recalcular | Plataforma Wevia | Wevia | Isca com automação |
+| **contínuo (desde 23/06)** | **Liderança** | ID Singular | Frente contínua — fundo de funil (aquisição/conversão) |
+| **contínuo (reativação jul/2026)** | **Educação Corporativa** | ID Singular | Frente contínua — melhor CPL histórico (R$104-250 Meta) — ver [[Histórico Meta 2026 - Educação Corporativa (ID Singular)]] |
+| 06/07 | Comunicação & Media Training | ID Singular | Fundo de funil — *(aguardando produção de material: brief/LP/copy/anúncios)* |
+| 27/07 | Magnus (assessment) | Wevia | Isca: teste grátis + automação → conversão |
+| 17/08 | Carreira, Sucessão & Potencial | ID Singular | Fundo de funil |
+| 07/09 | Saúde Organizacional & Bem-Estar | ID Singular | Fundo de funil |
+| 28/09 | Animus (saúde mental/NR-1) | Wevia | Isca com automação |
+| 19/10 | Asset (diagnóstico de cultura) | Wevia + ID Singular | Isca com automação |
+| 16/11 | Plataforma Wevia | Wevia | Isca/estrutural |
 
-## ✅ Calendário revisado (cascata por verba fixa de R$9k/mês)
-- Cada lançamento agora ocupa **~30 dias corridos** (1 ciclo de mídia completo), igual ao modelo
-  de Liderança — não mais datas-pontuais isoladas.
-- A cascata empurrou Animus/Asset/Plataforma Wevia para **fora da janela de timing forte original**
-  (Animus era set–nov, Asset ago–nov, Plataforma out–nov) — **a revalidar com o cliente** se a janela
-  de mercado ainda se sustenta nas novas datas, ou se algum lançamento deve ser pulado/encurtado.
-- Pendência aberta: confirmar se a cascata segue literal (sempre 30 dias, sequencial) ou se o cliente
-  quer voltar a comprimir alguns lançamentos quando a urgência de mercado for maior que a de orçamento.
+> ⚠️ Comunicação (06/07) cai dentro da janela ainda ativa de Liderança (23/06→22/07) — overlap
+> **intencional** agora que o modelo é paralelo, não sequencial. Mas Comunicação só entra de fato
+> quando tiver material pronto (não tem brief/LP/copy ainda) — a data 06/07 é a meta original de
+> mercado, não uma data de go-live garantida.
+
+## ✅ Modelo de orçamento (revertido para paralelo em 29/06)
+- ~~Cascata de 30 dias sequenciais~~ **revertida** — voltamos às datas originais de mercado (acima).
+- A partir de jul/2026: **R$9k/mês dividido entre frente(s) contínua(s) (Liderança + Educação
+  Corporativa) + o lançamento pontual do mês**, quando houver material pronto.
+- Cada lançamento pontual (Comunicação, Magnus, Carreira...) precisa de ~2 semanas de produção
+  (brief, LP, copy, anúncios) antes do go-live — a data de mercado é o objetivo, não garantia de
+  go-live automático nessa data exata.
+- Pendência aberta: definir, mês a mês, como dividir R$9k entre 2-3 frentes simultâneas sem diluir
+  demais nenhuma (decisão a ser feita com base em indicadores de cada frente, conforme [[Histórico Meta 2026 - Educação Corporativa (ID Singular)]]).
 
 ## 🧭 Lógica estratégica
 - **Concentração no 2º semestre:** é quando grandes empresas e o setor público desenham planos de
