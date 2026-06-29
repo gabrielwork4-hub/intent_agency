@@ -50,6 +50,23 @@ tags: [aprendizados, conhecimento, validacao]
 - **Ação:** ao ver tração com posição ruim, checar se já há página; se sim, **otimizar** antes
   de criar nova (Frente A: técnica + on-page costuma render mais rápido que conteúdo novo).
 
+### [2026-06] Pixel instalado ≠ tracking funcionando — sempre testar o envio real
+- **Evidência:** ID Singular — pixel Meta disparava PageView normalmente, mas nenhum evento de
+  conversão disparava no envio do formulário (campanhas gastaram R$3.442 com 0 leads atribuídos).
+  Causa raiz: gatilho de clique antigo dependia de um `id` de botão que só existia no formulário
+  legado; os formulários novos não tinham `id`. Segunda causa raiz, mesmo cliente: a campanha
+  otimizava por uma Conversão Personalizada do Meta com regra de URL impossível de bater.
+- **Metodologia impactada:** nova [[Metodologia - Estruturação e Otimização de Tráfego Pago]].
+- **Ação:** auditoria de tracking (teste de envio real, não só inspeção visual do código) passa a
+  ser **passo obrigatório antes de validar qualquer dado de CPL ou budget**.
+
+### [2026-06] CPL blended pode escond24 um canal eficiente atrás de um canal ruim
+- **Evidência:** ID Singular — CPL blended (Meta+Google+LinkedIn) de Educação Corporativa era
+  R$555,34; isolando só Meta, o CPL real era R$233,85 (menos da metade).
+- **Metodologia impactada:** [[Metodologia - Estruturação e Otimização de Tráfego Pago]].
+- **Ação:** sempre que possível, analisar **CPL por canal isolado**, não só o blended, antes de
+  decidir cortar ou redistribuir budget.
+
 <!-- Exemplo de registro:
 ### [2026-07] Corrigir canonical destrava striking distance
 - **Evidência:** Gold Car — 4 posts subiram de 11–40 para top 10 após correção de URLs duplicadas.
