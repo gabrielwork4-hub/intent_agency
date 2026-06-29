@@ -57,12 +57,28 @@ tags: [acompanhamento, resultados, id-singular, geracao-de-demanda]
 | 2026-06-21 | 6 pautas de blog do time validadas via Ahrefs ([[Pautas Blog - Liderança (ID Singular)]]) — 5 seguem, 1 redirecionada p/ social | [[Metodologia - Estudo de Palavras-chave e Clusterização]] | pauta "microgerenciamento" (2.100 vol/KD0) como prioridade de produção |
 | 2026-06-21 | Gap de cluster identificado e fechado: +2 pautas (liderança feminina 1.300 vol/KD2, liderança humanizada 450 vol/KD0) | [[Metodologia - Estudo de Palavras-chave e Clusterização]] | 7 pautas totais cobrem compliance + T&D + posicionamento de marca |
 | 2026-06-21 | Justificativa técnica das 7 pautas documentada ([[Justificativa - Pautas Blog Liderança (ID Singular)]]) | [[Metodologia - Estudo de Palavras-chave e Clusterização]] | ~4.860 buscas/mês combinadas; alcance e critérios de decisão registrados para o time |
-|  | *(próx: definir canais prioritários + mensagem por persona)* | — | iniciar geração de demanda |
+| 2026-06-21 | 🔴 1º report real de Meta Ads analisado (CSV 15-28/06): R$3.442,55 gastos nas campanhas de Liderança, **0 leads atribuídos** no relatório | — | confirma risco de UTM/pixel — ação imediata necessária antes de seguir investindo |
+|  | *(próx: validar pixel/evento de conversão no Ads Manager + cruzar com leads reais no CRM Wevia)* | — | desbloquear leitura de CPL real |
 
 ## 📈 Resultados ao longo do tempo
 | Mês | Leads qualificados | Reuniões | Propostas | Fechamentos |
 |---|---|---|---|---|
 | 2026-06 (base) | — | — | — | — |
+
+### 🔴 Report Meta Ads — Semana 1 (15/06–28/06, ref. relatório de 21/06)
+| Campanha | Status | Gasto | Impressões | Alcance | Freq. | CPM | Resultados (leads) |
+|---|---|---|---|---|---|---|---|
+| Diagnóstico Liderança 1 e 2 | ativa | R$1.060,74 | 21.412 | 10.909 | 1,96 | R$49,54 | **não rastreado (0 na coluna)** |
+| Diagnóstico 3 e 4 | ativa | R$2.381,81 | 128.635 | 110.818 | 1,16 | R$18,52 | **não rastreado (0 na coluna)** |
+| educacaocorporativa_novo | inativa (legado) | R$1.100,13 | 38.921 | 26.049 | 1,49 | R$28,27 | — |
+| **Total Liderança (1+2 e 3+4)** | | **R$3.442,55** | 150.047 | 121.727 | — | — | **0 leads atribuídos no relatório** |
+
+> 🔴 **ALERTA:** R$3.442,55 gastos sem nenhum lead atribuído na coluna "Resultados" do Meta. Bate com a
+> pendência de UTM/pixel registrada em [[Diagnóstico e Plano de Ação - Liderança (ID Singular)]].
+> **Ação imediata:** (1) confirmar no Ads Manager se a coluna de resultado está configurada pro evento
+> "Lead"; (2) checar no CRM Wevia se há leads reais não atribuídos por quebra de pixel/UTM; (3) se não
+> há leads em lugar nenhum, há quebra no funil clique→formulário→pixel. **CPL real não calculável até
+> resolver isso** — meta de ~30 leads/30 dias em risco se o problema persistir.
 
 ## 🧪 Hipóteses / experimentos
 - [ ] Hipótese: mensagem espelhando o tom náutico da marca + dor por persona (CHRO/CEO/T&D)
