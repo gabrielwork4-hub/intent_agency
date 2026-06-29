@@ -58,7 +58,10 @@ tags: [acompanhamento, resultados, id-singular, geracao-de-demanda]
 | 2026-06-21 | Gap de cluster identificado e fechado: +2 pautas (liderança feminina 1.300 vol/KD2, liderança humanizada 450 vol/KD0) | [[Metodologia - Estudo de Palavras-chave e Clusterização]] | 7 pautas totais cobrem compliance + T&D + posicionamento de marca |
 | 2026-06-21 | Justificativa técnica das 7 pautas documentada ([[Justificativa - Pautas Blog Liderança (ID Singular)]]) | [[Metodologia - Estudo de Palavras-chave e Clusterização]] | ~4.860 buscas/mês combinadas; alcance e critérios de decisão registrados para o time |
 | 2026-06-21 | 🔴 1º report real de Meta Ads analisado (CSV 15-28/06): R$3.442,55 gastos nas campanhas de Liderança, **0 leads atribuídos** no relatório | — | confirma risco de UTM/pixel — ação imediata necessária antes de seguir investindo |
-|  | *(próx: validar pixel/evento de conversão no Ads Manager + cruzar com leads reais no CRM Wevia)* | — | desbloquear leitura de CPL real |
+| 2026-06-21 | 🔴 Causa raiz confirmada via teste real no navegador: GTM dispara conversão pro Google Ads mas **não tem tag de Meta Pixel conectada ao envio do formulário** ([[Diagnóstico e Plano de Ação - Liderança (ID Singular)]]) | — | Meta nunca recebe sinal de Lead → 0 resultados mesmo com leads reais entrando no Wevia |
+| 2026-06-21 | 🔴 Escopo do problema ampliado: confirmado que metade dos criativos aponta para `/lideranca` (formulário de 11 etapas, notifica comercial) — mesma falha de Meta Pixel confirmada nesse segundo funil também | — | 100% do orçamento de Meta Ads roda sem sinal de conversão, não só no quiz |
+| 2026-06-29 | ✅ **RESOLVIDO** — corrigidos acionadores no GTM (`GTM-NS38H4VJ`, Versão 4): trocado `Click ID` (inexistente nos novos formulários) por `Click Text`; 2 acionadores novos ligados às 3 tags (Google/LinkedIn/Meta). Confirmado disparo via debug nativo do GTM | [[Diagnóstico e Plano de Ação - Liderança (ID Singular)]] | Os 3 canais voltam a registrar Lead nos 2 funis (quiz + /lideranca) |
+|  | *(próx: excluir leads de teste do Wevia; avisar comercial sobre contato de teste em /lideranca; acompanhar CPL real nos próximos dias)* | — | validar leitura de CPL real nos dois funis |
 
 ## 📈 Resultados ao longo do tempo
 | Mês | Leads qualificados | Reuniões | Propostas | Fechamentos |

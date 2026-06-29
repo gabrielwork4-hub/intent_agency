@@ -97,6 +97,71 @@ Rodar 30 dias (não sprint) reduz o risco: a fase de aprendizado amortiza e há 
 **Pendência a confirmar com o time técnico:** o formulário do quiz grava a UTM de origem (campo oculto)
 junto com o lead no CRM Wevia? Se não, é o ajuste técnico mais urgente antes do go-live.
 
+### 🔴 Causa raiz confirmada (teste em 21/06 via navegador) — vale para os DOIS funis
+⚠️ **Metade dos criativos da campanha aponta para `/diagnostico-lideranca` e a outra metade para
+`/lideranca`** — são dois funis de conversão diferentes, e o problema afeta os dois:
+- `/diagnostico-lideranca`: quiz de 4 etapas de cadastro + 10 perguntas. Lead de teste "TESTE NAO
+  CONTATAR — QA Pixel" enviado (a excluir do CRM Wevia).
+- `/lideranca`: formulário de qualificação de **11 etapas** ("Quero traçar uma jornada de liderança
+  sob medida"), que **notifica o time comercial** ("em breve nossa equipe vai te chamar"). Lead de
+  teste "TESTE NAO CONTATAR QA" / "QA Pixel" enviado em 21/06 — **avisar o time comercial para
+  ignorar esse contato** e excluir do CRM Wevia.
+- ✅ Achado positivo: o formulário de `/lideranca` já tem campos ocultos de UTM prontos
+  (`utm_source`, `utm_medium`, `utm_campaign`, `utm_content`, `utm_term`, `origem`, `lp`,
+  `conversion_identifier`) — só precisam vir preenchidos a partir da URL do anúncio (ver padrão de
+  UTM acima). O quiz não tem esses campos visíveis.
+
+Testei o fluxo completo do formulário em `/diagnostico-lideranca` (4 etapas, lead de teste marcado
+"TESTE NAO CONTATAR — QA Pixel", **a excluir do CRM Wevia**):
+- GTM (`GTM-NS38H4VJ`, mesmo container nas duas páginas) dispara `gtm.formSubmit`/`form_submit` em
+  **todas as etapas dos dois formulários** — já conectado a uma tag do **Google Ads** (confirmado nos
+  dois funis).
+- Pixel do Meta (`488385575868107`, mesmo pixel nas duas páginas) dispara `PageView` normalmente, mas
+  **não dispara nenhum evento de conversão (Lead/CompleteRegistration) em nenhuma etapa de nenhum dos
+  dois formulários** — confirmado com envio completo e bem-sucedido nos dois (quiz abriu; "Recebemos o
+  seu contato" apareceu no formulário de 11 etapas).
+- **Causa raiz:** falta a tag de Meta Pixel conectada ao envio de QUALQUER formulário no GTM. O Meta
+  nunca recebe sinal de conversão → 0 resultados no relatório nos dois funis, mesmo com leads reais
+  entrando → algoritmo do Meta otimiza sem feedback nenhum, em 100% do orçamento de Meta Ads.
+
+**Correção recomendada:**
+1. Pedir ao dev um evento customizado no código (ex.: `dataLayer.push({event:'diagnostico_lead_enviado'})`
+   e `dataLayer.push({event:'lideranca_form_enviado'})`) disparado só na confirmação final de cada
+   formulário — **não** usar o trigger genérico "Form Submission" do GTM (dispara em todas as etapas,
+   geraria Lead duplicado várias vezes por pessoa).
+2. Criar tag "Meta Pixel - Lead" no GTM (`fbq('track','Lead')`) usando esses eventos customizados como
+   trigger — uma tag pode ter múltiplos triggers (um por funil) ou criar duas tags espelhadas.
+3. Publicar o container.
+4. Médio prazo: migrar para **Meta Conversions API** (servidor→servidor, a partir do Wevia) — mais
+   robusto que pixel client-side contra ad-blocker/Safari ITP, comum em tráfego corporativo/RH.
+
+**Correção rápida sem dev (Element Visibility no GTM) — testada em 21/06:**
+- `/diagnostico-lideranca`: trigger de Visibilidade do Elemento, seletor CSS `.sticky.top-20 p.tabular-nums`
+  (texto "Pergunta 1 de 10" — só aparece após envio do cadastro), "uma vez por página".
+- `/lideranca`: precisa de seletor equivalente para a tela de confirmação "Recebemos o seu contato."
+  (não capturado ainda — pegar o seletor antes de configurar o trigger).
+- ⚠️ Frágil: depende de classes Tailwind que podem mudar em deploys futuros sem aviso.
+
+**Ação imediata adicional:** avisar o time comercial que recebe notificação do formulário de
+`/lideranca` para **ignorar os contatos "TESTE NAO CONTATAR QA" / "QA Pixel"** gerados nesta validação.
+
+### ✅ RESOLVIDO (29/06/2026)
+Causa raiz real: o acionador `[FORM PRINCIPAL] CADASTRO` dependia de `Click ID contém
+btn-educorp-enviar-lv1` — um ID de botão que só existe no formulário antigo (`/educacao-corporativa`).
+Os botões novos (quiz e `/lideranca`) não têm `id`, só classes Tailwind genéricas, então o acionador
+nunca disparava para Google, LinkedIn **nem** Meta nesses dois funis.
+
+**Correção aplicada no GTM (`GTM-NS38H4VJ`), Versão 4:**
+- Habilitada a variável incorporada `Click Text`.
+- Criados 2 acionadores novos: `[FORM QUIZ LIDERANÇA] CADASTRO` (`Click Text` = `Iniciar Diagnóstico`)
+  e `[FORM LIDERANÇA] CADASTRO` (`Click Text` contém `Enviar` E `Page Path` contém `/lideranca`).
+- Acionadores adicionados às 3 tags existentes: `[GOOGLE]`, `[LINKEDIN]`, `[META] CADASTRO LEAD
+  (FORM PRINCIPAL)` — resolve os 3 canais de uma vez, sem precisar de dev.
+- **Confirmado no debug nativo do GTM:** as 3 tags disparam corretamente ("Disparou 1 vez" cada) no
+  envio do quiz de `/diagnostico-lideranca`.
+- Leads de teste gerados durante a validação ("TESTE NAO CONTATAR" / "QA Pixel" / variações) — **a
+  excluir do CRM Wevia**, e avisar o time comercial sobre o contato de teste de `/lideranca`.
+
 ### Fase 2 — Go-live e sprint (23/06–22/07)
 | #   | Ação                                                            | Responsável | Quando             |
 | --- | --------------------------------------------------------------- | ----------- | ------------------ |
