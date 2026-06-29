@@ -172,6 +172,22 @@ por "Cliques no link"/"Visualizações da LP" em vez de "Lead". Trocar para Lead
 aprendizado (esperado, ~3-7 dias para estabilizar), mas faz o algoritmo entregar pra quem converte,
 não só pra quem clica.
 
+### 🔴→✅ Segunda causa raiz encontrada e corrigida (29/06/2026)
+Os conjuntos de anúncios estavam otimizando por uma **Conversão Personalizada quebrada**, chamada
+"Iniciar Diagnóstico" (ID 1634960754277864) — regra: `URL contém "Iniciar Diagnóstico"`, que nunca
+poderia disparar (é o texto do botão, não da URL da página). Por isso o Meta nunca contabilizava
+resultado, mesmo com o pixel/GTM já corrigidos e o evento Lead chegando (confirmado 12 eventos,
+qualidade 8.7/10 no Gerenciador de Eventos).
+
+**Correção:** Meta não permite editar evento de conversão de conjunto já publicado, nem editar regra
+de conversão personalizada já criada. Solução: criada uma conversão personalizada nova e correta —
+**"Lead - Diagnóstico Liderança"** (Evento: Lead · Regra: URL contém "idsingular.com.br") — e os 2
+conjuntos de anúncios ativos (`01 - [LP Liderança] Quente + Lookalike` e `02 - [LP Liderança]
+Prospecção Fria`) foram **duplicados** apontando para essa conversão nova. Conjuntos originais
+(quebrados) devem ser pausados após confirmar que as cópias estão ativas.
+**Efeito esperado:** fase de aprendizado reinicia nos novos conjuntos (~3-7 dias para estabilizar),
+mas a partir de agora o algoritmo otimiza por quem realmente converte, não só por clique.
+
 ### Fase 2 — Go-live e sprint (23/06–22/07)
 | #   | Ação                                                            | Responsável | Quando             |
 | --- | --------------------------------------------------------------- | ----------- | ------------------ |
