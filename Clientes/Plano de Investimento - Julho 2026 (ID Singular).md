@@ -58,17 +58,12 @@ tags: [investimento, budget, lideranca, educacao-corporativa, id-singular]
 3. Confirmar que o formulário de Educação Corporativa está com UTM + evento de conversão corretos no
    GTM (mesma auditoria que fizemos para Liderança).
 
-## 📅 Lançamento do calendário em julho — Comunicação & Media Training (06/07)
-- **Está no calendário original**, mas **não recebe verba de mídia em julho** — o R$9k já está
-  100% alocado entre Liderança e Educação Corporativa.
-- **Sem material pronto** (brief, LP, copy, anúncios) — não daria para ir ao ar em 06/07 mesmo se
-  houvesse verba disponível.
-- **Recomendação:** tratar julho como **mês de produção** para Comunicação (brief + LP + copy,
-  sem custo de mídia), e mover o go-live pago para quando: (a) o material estiver pronto, e (b) uma
-  das 2 frentes atuais liberar orçamento (ex.: Liderança encerra sua janela em 22/07) ou o cliente
-  aportar verba incremental.
-- **Pendência:** confirmar com o cliente se Comunicação aguarda dentro do R$9k mensal (entra quando
-  alguma frente atual sair) ou se há intenção de aporte adicional para rodar 3 frentes ao mesmo tempo.
+## 📅 Comunicação & Media Training (06/07) — verba reservada, condicionada a material pronto
+- Já está incluída na divisão de 3 frentes acima (R$2.000), mas o gasto real depende de ter
+  brief + LP + copy + anúncios prontos primeiro — **produção precisa começar imediatamente** para
+  não perder os 30 dias com a verba parada.
+- Se a produção não estiver pronta a tempo, redistribuir o R$2.000 entre Liderança e Educação
+  Corporativa (estrutura já pronta pra absorver verba extra) em vez de deixá-lo sem uso.
 
 ---
 🔗 Relacionado: [[Grade de Lançamentos - ID Singular & Wevia 2026]] · [[Histórico Meta 2026 - Educação Corporativa (ID Singular)]] · [[Plano de Investimento - Liderança (ID Singular)]] · [[Acompanhamento - ID Singular]]
