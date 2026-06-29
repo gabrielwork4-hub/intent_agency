@@ -162,6 +162,16 @@ nunca disparava para Google, LinkedIn **nem** Meta nesses dois funis.
 - Leads de teste gerados durante a validação ("TESTE NAO CONTATAR" / "QA Pixel" / variações) — **a
   excluir do CRM Wevia**, e avisar o time comercial sobre o contato de teste de `/lideranca`.
 
+**Confirmado em produção (29/06, Gerenciador de Eventos do Meta):** evento **Lead** ativo, 12 eventos
+recebidos, qualidade 8.7/10, 100% de correspondência avançada via Conversions API (pixel
+`488385575868107`, conjunto "[EDUCAÇÃO CORPORATIVA]"). Correção 100% validada de ponta a ponta.
+
+**Pendência seguinte:** verificar o "Objetivo de desempenho" dos conjuntos de anúncios ativos no
+Gerenciador de Anúncios — como o evento Lead não existia até agora, é provável que estejam otimizando
+por "Cliques no link"/"Visualizações da LP" em vez de "Lead". Trocar para Lead reinicia a fase de
+aprendizado (esperado, ~3-7 dias para estabilizar), mas faz o algoritmo entregar pra quem converte,
+não só pra quem clica.
+
 ### Fase 2 — Go-live e sprint (23/06–22/07)
 | #   | Ação                                                            | Responsável | Quando             |
 | --- | --------------------------------------------------------------- | ----------- | ------------------ |
