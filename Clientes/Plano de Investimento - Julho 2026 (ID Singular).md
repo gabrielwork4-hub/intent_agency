@@ -49,6 +49,20 @@ tags: [investimento, budget, lideranca, educacao-corporativa, id-singular]
 > valor entre Liderança e Educação Corporativa (que já têm estrutura pronta pra absorver verba extra
 > sem perda de eficiência) em vez de deixá-lo parado.
 
+## 📣 Consolidado por plataforma (visão única, somando as 3 frentes)
+| Plataforma | Liderança | Educação Corporativa | Comunicação* | **Total** | % do orçamento |
+|---|---|---|---|---|---|
+| **Meta Ads** | R$2.900 | R$2.500 | R$1.200 | **R$6.600** | 73% |
+| **Google Ads** | R$420 | R$500 | R$300 | **R$1.220** | 14% |
+| **LinkedIn Ads** | R$680 | — | R$500 | **R$1.180** | 13% |
+| **Total** | R$4.000 | R$3.000 | R$2.000 | **R$9.000** | 100% |
+
+*\*Comunicação é verba reservada/condicionada a material pronto — não é gasto garantido nos 30 dias.*
+
+Meta concentra ~73% do orçamento total — coerente com o canal mais eficiente em CPL nas duas frentes
+com dados reais (Liderança e Educação Corporativa). Google e LinkedIn ficam próximos entre si
+(13-14% cada), cobrindo intenção de busca e segmentação por cargo, respectivamente.
+
 ## ⚠️ Antes de subir a verba de Educação Corporativa
 1. **Investigar os 3 conjuntos com 0 leads** (LAL 1%, captura_02, saudemental — R$1.424,66 gastos
    sem resultado) — podem ter o mesmo bug de tracking (trigger antigo `btn-educorp-enviar-lv1`) que
