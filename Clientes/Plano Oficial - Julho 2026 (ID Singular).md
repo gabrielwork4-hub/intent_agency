@@ -10,8 +10,9 @@ tags: [plano-oficial, julho, lideranca, educacao-corporativa, comunicacao, id-si
 # ✅ Plano Oficial — Julho/2026 (ID Singular)
 
 > Documento único de referência para julho. Consolida tudo decidido em 29/06: modelo de orçamento,
-> divisão por frente/canal, status de tracking e calendário. Detalhes em
-> [[Plano de Investimento - Julho 2026 (ID Singular)]] · [[Grade de Lançamentos - ID Singular & Wevia 2026]] ·
+> divisão por frente/canal, status de tracking, calendário e previsibilidade. Detalhes em
+> [[Plano de Investimento - Julho 2026 (ID Singular)]] · [[Previsibilidade - Julho 2026 (ID Singular)]] ·
+> [[Grade de Lançamentos - ID Singular & Wevia 2026]] ·
 > [[Diagnóstico e Plano de Ação - Liderança (ID Singular)]] · [[Histórico Meta 2026 - Educação Corporativa (ID Singular)]] ·
 > metodologia aplicada: [[Metodologia - Estruturação e Otimização de Tráfego Pago]].
 
@@ -79,6 +80,19 @@ tags: [plano-oficial, julho, lideranca, educacao-corporativa, comunicacao, id-si
 
 ---
 
+## 🔮 Previsibilidade do mês (resumo)
+| Frente | Verba | Cenário-base | Leads esperados | SQLs esperados |
+|---|---|---|---|---|
+| **Liderança** | R$4.000 | CPL R$300–350 | ~12–13 | ~1–2 |
+| **Educação Corporativa** | R$3.000 | CPL ~R$150 (após auditoria) | ~20 | ~2 |
+| **Comunicação** | R$2.000 (condicional) | sem histórico — indeterminado | — | — |
+| **Total comprometido (Liderança + Educ. Corp.)** | **R$7.000** | — | **~32–33** | **~3–4** |
+
+> Detalhamento completo (cenários A/B/C por frente + plano operacional de execução) em
+> [[Previsibilidade - Julho 2026 (ID Singular)]].
+
+---
+
 ## 🗓️ Calendário de julho (visão única)
 | Data | Frente | Tipo |
 |---|---|---|
@@ -101,6 +115,6 @@ tags: [plano-oficial, julho, lideranca, educacao-corporativa, comunicacao, id-si
 - [ ] Acompanhar CPL real das 2 frentes ativas e atualizar [[Acompanhamento - ID Singular]] semanalmente
 
 ---
-🔗 Relacionado: [[Acompanhamento - ID Singular]] · [[Plano de Investimento - Julho 2026 (ID Singular)]] · [[Grade de Lançamentos - ID Singular & Wevia 2026]] · [[Diagnóstico e Plano de Ação - Liderança (ID Singular)]] · [[Histórico Meta 2026 - Educação Corporativa (ID Singular)]] · [[Metodologia - Estruturação e Otimização de Tráfego Pago]]
+🔗 Relacionado: [[Acompanhamento - ID Singular]] · [[Plano de Investimento - Julho 2026 (ID Singular)]] · [[Previsibilidade - Julho 2026 (ID Singular)]] · [[Grade de Lançamentos - ID Singular & Wevia 2026]] · [[Diagnóstico e Plano de Ação - Liderança (ID Singular)]] · [[Histórico Meta 2026 - Educação Corporativa (ID Singular)]] · [[Metodologia - Estruturação e Otimização de Tráfego Pago]]
 
 #plano-oficial #julho #lideranca #educacao-corporativa #comunicacao

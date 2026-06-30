@@ -64,8 +64,11 @@ com dados reais (Liderança e Educação Corporativa). Google e LinkedIn ficam p
 (13-14% cada), cobrindo intenção de busca e segmentação por cargo, respectivamente.
 
 ## ⚠️ Antes de subir a verba de Educação Corporativa
-1. **Investigar os 3 conjuntos com 0 leads** (LAL 1%, captura_02, saudemental — R$1.424,66 gastos
-   sem resultado) — podem ter o mesmo bug de tracking (trigger antigo `btn-educorp-enviar-lv1`) que
+1. **Auditar TODAS as campanhas de Educação Corporativa** (não só os 3 conjuntos com 0 leads) —
+   confirmar tracking/UTM/evento de conversão em cada uma antes de escalar qualquer verba. Os 3
+   conjuntos com 0 leads (LAL 1%, captura_02, saudemental — R$1.424,66 gastos sem resultado) são
+   prioridade, mas o restante (CJ1, publicosegmentadoRH, publicoabertoadv_lp_captura) também precisa
+   de confirmação — podem ter o mesmo bug de tracking (trigger antigo `btn-educorp-enviar-lv1`) que
    corrigimos em Liderança. Se sim, o CPL real histórico é melhor do que os R$233,85 calculados.
 2. **Pausar/não reativar** os conjuntos de pior CPL (`publicoabertoadv_lp_captura`, R$355) — focar
    orçamento novo no padrão do melhor conjunto (`(CJ1) Leads Página de Vendas`, R$104).
